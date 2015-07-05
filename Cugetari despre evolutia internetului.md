@@ -61,9 +61,9 @@ Acum ca a fost deschisa cutia Pandorei cu formatul binar pentru internet **Web A
 Estimez ca in urmatorii 5-10 ani, programatorii vor putea scrie cod nativ Python si Ruby pentru Chrome si Firefox.
 
 Au mai fost incercari de formate binare: Java applet, Flash, Silverlight, dar toate au devenit irelevante. De ce?...
-Applet-urile Java sunt privite cu tot mai multa suspiciune din cauza nenumaratelor gauri de securitate descoperite in ultima vreme; Firefox te avertizeaza mereu cand pornesti applet-uri, iar Chrome le-a blocat complet, sa nu-si mai bata capul.
-Iar Flash, intr-o vreme se gasea in 80% dintre reclame. Apoi a aparut Apple iOS, care a refuzat cu vehementa sa suporte flash (//www.apple.com/hotnews/thoughts-on-flash/). Apple vs Flash, Apple wins. Asta e povestea, really. Mai noi Adobe impinge puternic librarii de HTML5, vezi mai jos.
-Silverlight nu este portabil. Punct. Proiectul "Moonlight" care trebuia sa porteze Silverlight nu mai este dezvoltat. Mai nou Microsoft impinge HTML5 masiv, de cand cu Windows 8++.
+Applet-urile Java sunt privite cu tot mai multa suspiciune din cauza nenumaratelor gauri de securitate descoperite in ultima vreme; Firefox te avertizeaza mereu cand pornesti applet-uri, iar Chrome le-a blocat complet, sa nu-si mai bata capul.<br />
+Iar Flash, intr-o vreme se gasea in 80% dintre reclame. Apoi a aparut Apple iOS, care a refuzat cu vehementa sa suporte flash (//www.apple.com/hotnews/thoughts-on-flash/). Apple vs Flash, Apple wins. Asta e povestea, really. Mai noi Adobe impinge puternic librarii de HTML5, vezi mai jos.<br />
+Silverlight nu este portabil. Punct. Proiectul "Moonlight" care trebuia sa porteze Silverlight nu mai este dezvoltat. Mai nou Microsoft impinge HTML5 masiv, de cand cu Windows 8++.<br />
 La nivel superficial, tot ce am zis mai sus e adevarat, dar in realitate, toate cele 3 au o singura problema: sunt niste produse care apartin unei companii. Si atunci e vorba de bani, compania decide in ce directie sa se miste produsul.
 
 Daca as avea bani de investit intr-un limbaj de programare, in urmatorii 5 ani as investi in HTML5, care inseamna mai multe tehnologii, nu doar Javascript.
