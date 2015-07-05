@@ -27,8 +27,8 @@ La fel cum ne-a luat (2006 - 1982 = 24) de ani sa inventam Twitter, va dura comp
 Si la final, ce lipseste cel mai mult, este un standard prin care serviciile sa comunice intre ele. Exista protocoale de comunicare low & middle level (Json RPC, XML RPC, SOAP), dar fiecare site in parte este izolat si trebuie accesat separat.
 
 In prezent nu exista o metoda prin care de exemplu contul meu de Pinterest sa comunice total cu contul meu de Foursquare si mai departe cu Google Maps, astfel incat sa pot cauta dintr-un singur loc:
-- intrebarea 1: vreau o lista de 3 localuri la care NU am mai fost, unde pot manca ceva bun! (raspuns personalizat)
-- intrebarea 2: la care dintre ele, gasesc cea mai ieftina pizza? (raspuns contextual, pentru ca depinde de intrebarea precedenta)
+- _intrebarea 1_: vreau o lista de 3 localuri la care NU am mai fost, unde pot manca ceva bun! (raspuns personalizat)
+- _intrebarea 2_: la care dintre ele, gasesc cea mai ieftina pizza? (raspuns contextual, pentru ca depinde de intrebarea precedenta)
 
 Ca sa obtina informatiile astea, un dispozitiv trebuie sa stie: cine sunt, unde ma aflu, ce anume mi-ar placea sa mananc, ce am mai mancat in trecut, dar cel mai important, unde anume se afla fiecare informatie si cum anume trebuie citite si interpretate datele, astfel incat sa rezulte ceva care sa aiba sens. Sunt chestii foarte complicat de implementat cu tehnologiile pe care le avem acum.
 
@@ -88,14 +88,13 @@ Microsoft a renuntat la Internet Explorer (care deja devenise o gluma) si il inl
 Vor mai fi si altele.
 
 Surse:
-https://en.wikipedia.org/wiki/History_of_the_Internet
-https://en.wikipedia.org/wiki/Gmail
-https://en.wikipedia.org/wiki/Myspace
-https://en.wikipedia.org/wiki/Facebook
-http://computer.howstuffworks.com/web-30.htm
-https://github.com/WebAssembly/
-https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS/
-http://webdesign.about.com/od/htmltags/a/why-semantic-html.htm
+- https://en.wikipedia.org/wiki/History_of_the_Internet
+- https://en.wikipedia.org/wiki/Gmail
+- https://en.wikipedia.org/wiki/Myspace
+- https://en.wikipedia.org/wiki/Facebook
+- http://computer.howstuffworks.com/web-30.htm
+- https://github.com/WebAssembly/
+- https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS/
+- http://webdesign.about.com/od/htmltags/a/why-semantic-html.htm
 
 #
-
