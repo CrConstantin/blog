@@ -1,7 +1,7 @@
 
 # Cugetari despre evolutia internetului
 
-Acesta este prima data cand scriu un articol atat de complex. Va rog sa fiti ingaduitori.
+Aceasta este prima data cand scriu un articol atat de complex. Va rog sa fiti ingaduitori.
 
 _Info: Acest articol foloseste multi termeni tehnici_.
 
@@ -18,7 +18,7 @@ Momentan sunt enorm de multe probleme cu serviciile pe care ni le ofera internet
  - Este nesigur. Oricine poate "asculta teava" cum le place hackerilor sa spuna. Exista unele solutii, TLS/ SSL, dar nu sunt implementate peste tot si inca exista gauri de securitate. Si ca bonus, anumite organizatii pot sa te spioneze oricum, pentru ca informatia nu este securizata decat pe drumul dintre tine si server, nu este criptata pe server;
  - Este fragil. Printre exemple: in cazul unui net-split, nu mai poti accesa serverele din zona afectata. Exista DDOS, pentru ca exista servere centrale care pot pica. Este nevoie de load balancere, pentru directionarea traficului. Toate sunt hack-uri construite peste arhitectura curenta.
  - Este controlat, sau poate fi controlat de cateva persoane. Sunt cenzurate bloguri, poze, filme, din diferite motive. Internetul nu trebuie sa fie cenzurat, pentru ca este facut de oameni si pentru oameni.
- - Datele tale, nu iti apartin tie. Sunt suficiente cazuri in care s-a demonstrat ca ceea ce postezi pe retelele de socializare (vezi Facebook) nu iti apartine tie, ci companiei care detine reteaua de socializare. In cazul in care anumite autoritati decid ca vor sa iti vada profilul, sau sa iti citeasca toate mesajele private, reteaua de socializare le da imediat. Iar angajatii Facebook pot vedea informatiile tuturor utilizatorilor, indiferent daca sunt private sau nu (nu mai gasesc sursa pentru informatia asta, dar are sens). Iar daca iti stergi informatiile, de fapt ele nu sunt sterse, ci doar ascunse.
+ - Datele tale, nu iti apartin tie. Sunt suficiente cazuri in care s-a demonstrat ca ceea ce postezi pe retelele de socializare (vezi Facebook) nu iti apartine tie, ci companiei care detine reteaua de socializare. In cazul in care anumite autoritati decid ca vor sa iti vada profilul, sau sa iti citeasca toate mesajele private, reteaua de socializare le preda imediat. Iar angajatii Facebook pot vedea informatiile tuturor utilizatorilor, indiferent daca sunt private sau nu (nu mai gasesc sursa pentru informatia asta, dar are sens). Iar daca iti stergi informatiile, de fapt ele nu sunt sterse, ci doar ascunse.
 
 Pentru unele din problemele de mai sus, exista Torrent, Freenet, Retroshare, Tahoe-LAFS, IpFS, Bitcoin si platforme gen Ethereum. Ele au un rol VITAL, pentru ca sunt puncte de plecare pentru ideile revolutionare. Abia incepem sa ne deschidem mintea pentru ceea ce ne pot oferi.
 
