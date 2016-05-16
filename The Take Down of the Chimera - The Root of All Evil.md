@@ -98,14 +98,12 @@ To really explain what is going on, we will have to deal with very deep occult k
 
 The Islamic State, a Jesuit creation, is having a lot of attention in the mass media. One purpose of the Archons and their Jesuit puppets in their occult war against the people is to associate the name of Goddess Isis with their dark creation in the minds of the masses. Therefore, I would suggest all alternative media stop using the name ISIS for the Islamic State, but rater use ISIL or Islamic State instead.
 
-<cite>Cobra, [Plasma and Planetary Situation Update, October 7, 2104](http://2012portal.blogspot.se/2014/10/plasma-and-planetary-situation-update.html)</cite>
+Cobra, [Plasma and Planetary Situation Update, October 7, 2104](http://2012portal.blogspot.se/2014/10/plasma-and-planetary-situation-update.html)
 
 
 ## 2nd November 2014
 
 _We are using the Violet Flame to clear Long Island_
-
-[![Long2](http://cdn2.theeventchronicle.com/wp-content/uploads/2016/05/Long2.jpg)](http://cdn2.theeventchronicle.com/wp-content/uploads/2016/05/Long2.jpg)
 
 You can also participate in a meditation to clear Long Island, taking place at 3 am, 11 am and 7 pm GMT daily, whenever it is convenient for you (the link only works if you are signed into your facebook account):
 
@@ -139,11 +137,11 @@ The Breakthrough is near!
 
 ## 16th January 2015
 
-> **Since the initialization of the Breakthrough phase after the opening of the IS:IS portal in December,** the Eastern Alliance is speeding up their plans to build an alternative financial structure to the petrodollar system **which was the principal life support system for Chimera group to maintain the quarantine status of planet Earth, utilizing Negative Military as their main operating tool...**
-> 
-> **…the Alliance is rapidly building the new financial infrastructure to be ready when the Event comes**
-> 
-> <cite>Cobra, [Planetary Situation Update, January 16, 2015](http://2012portal.blogspot.se/2015/01/planetary-situation-update.html)</cite>
+**Since the initialization of the Breakthrough phase after the opening of the IS:IS portal in December,** the Eastern Alliance is speeding up their plans to build an alternative financial structure to the petrodollar system **which was the principal life support system for Chimera group to maintain the quarantine status of planet Earth, utilizing Negative Military as their main operating tool...**
+
+**...the Alliance is rapidly building the new financial infrastructure to be ready when the Event comes**
+
+Cobra, [Planetary Situation Update, January 16, 2015](http://2012portal.blogspot.se/2015/01/planetary-situation-update.html)
 
 
 ## January 29, 2015
@@ -261,7 +259,7 @@ Clearing of the Chimera group continues. **The majority of sublunar operations 
 
 **One of those technologies are miniature plasma chambers, put into most of cell phones, personal computers and wi-fi routers since a few years ago. The function of those plasma chambers is to reinforce the Veil and they will be removed soon...**
 
-<cite>Cobra, [Planetary Situation Update, August 26, 2016](http://2012portal.blogspot.se/2015/08/planetary-situation-update.html)</cite>
+Cobra, [Planetary Situation Update, August 26, 2016](http://2012portal.blogspot.se/2015/08/planetary-situation-update.html)
 
 
 ## September 13th 2015
@@ -340,14 +338,14 @@ When the physical Chimera network throughout the Solar system is disintegrating 
 
 As the power of Chimera decreases, there will be more exchange of intel between the top people of various positive factions without fear that this intel will be intercepted by the Chimera and without threat that Chimera will retaliate if top people of various positive factions talk too freely. Therefore the Resistance will soon release substantial intel to Eastern Agarthan network and to various Secret Space Program factions and some of that intel will then precipitate to the surface population. Most SSP factions were seriously mind-programmed against the Pleiadians and against other positive ET races and soon the Resistance will present them with solid proof of Pleiadian benevolence…
 
-<cite>Cobra, [Situation Update, January 3, 2016](http://2012portal.blogspot.se/2016/01/situation-update.html)</cite>
+Cobra, [Situation Update, January 3, 2016](http://2012portal.blogspot.se/2016/01/situation-update.html)
 
 
 ## January 10, 2016
 
 Clearing of the Chimera group continues. Much progress is being made, but not much can be said about that now. I am waiting for the right circumstances to release massive intel that will broaden the horizons of the surface population about many things.
 
-<cite>Cobra, [Short Situation Update, January 10, 2016](http://2012portal.blogspot.se/2016/01/short-situation-update.html)</cite>
+Cobra, [Short Situation Update, January 10, 2016](http://2012portal.blogspot.se/2016/01/short-situation-update.html)
 
 ### **AMAZINGLY GOOD NEWS!!!**
 
