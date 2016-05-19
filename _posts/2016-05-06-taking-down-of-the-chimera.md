@@ -1,4 +1,11 @@
-By Therese Zumi Sumner
+---
+layout: page
+title: The Taking Down of the Chimera - The Root of All Evil
+date:  2016-05-06 12:00
+author: Therese Zumi Sumner
+categories: archive
+tags: resistance
+---
 
 I would like to make a claim that it is impossible to have an understanding of the bigger picture regarding what is taking place in our liberation process unless you have followed the ongoing updates from Cobra regarding the so called Chimera group. This group is the darkest representation of the core evil anomaly that controls humanity and that **has** to be and that **is** being eliminated so that this planet can soon be free. Cobra has said on several occasions, **_” After they have been removed, The Event will be fully activated.”_**
 
@@ -14,13 +21,11 @@ We have been informed now over several years’ time how various ET groups have 
 
 The very first time that Cobra introduced us to this Chimera group was on April 8th 2014; He said:
 
-> **_“__There is a very secret negative group, codenamed Chimera, within the Negative Military which has come from Orion and has infiltrated militaries of all major nations during and after the Congo Archon invasion in 1996\. This group secretly controls the vast majority of military bases around the world, many of those bases belonging to the US military:”_ **to learn a lot more details about this group and the secret agreements that they have enforced upon **“**_**leaders of all national militaries worldwide to suppress and erase all traces of benevolent extraterrestrial contact”**_
-
-then you can go to this link:
+> **_“__There is a very secret negative group, codenamed Chimera, within the Negative Military which has come from Orion and has infiltrated militaries of all major nations during and after the Congo Archon invasion in 1996\. This group secretly controls the vast majority of military bases around the world, many of those bases belonging to the US military:”_ **to learn a lot more details about this group and the secret agreements that they have enforced upon **“**_**leaders of all national militaries worldwide to suppress and erase all traces of benevolent extraterrestrial contact”**_ then you can go to this link:
 
 [http://2012portal.blogspot.se/2014/04/end-of-petrodollar-overunity-and-event.html](http://2012portal.blogspot.se/2014/04/end-of-petrodollar-overunity-and-event.html)
 
-On July 7th 2014 when Cobra released more facts about the Chimera group he began with the warning _“__Parts of this intel may seem unbelievable for some people, but truth is stranger than fiction. This group includes the leaders of the dark forces from the Andromeda galaxy. They came to Earth in humanoid physical bodies 25,000 years ago and quarantined the planet. They have built a scalar electromagnetic fence around the Earth (the Veil), effectively preventing positive ET contact and thus isolating humanity. Then they constructed a vast network of subterranean cities, using Draconians as slave handlers and Reptilians as slaves and controlled the human population on the surface of the planet from there. _
+On July 7th 2014 when Cobra released more facts about the Chimera group he began with the warning _“__Parts of this intel may seem unbelievable for some people, but truth is stranger than fiction. This group includes the leaders of the dark forces from the Andromeda galaxy. They came to Earth in humanoid physical bodies 25,000 years ago and quarantined the planet. They have built a scalar electromagnetic fence around the Earth (the Veil), effectively preventing positive ET contact and thus isolating humanity. Then they constructed a vast network of subterranean cities, using Draconians as slave handlers and Reptilians as slaves and controlled the human population on the surface of the planet from there._
 
 _Their main strongholds at that time were under Africa, China and Tibet..._
 
@@ -30,7 +35,7 @@ _Their main strongholds at that time were under Africa, China and Tibet..._
 
 **Now only the underground train system of the Resistance is fully operational.** The Chimera group is (was) mostly contained in the uppermost underground sections of the surface military bases, closer than 100 feet (30 meters) to the surface.
 
-#### Their main current strongholds, through which they control the surface of the planet, are:
+### Their main current strongholds, through which they control the surface of the planet, are:
 
 *   Borgo Santo Spirito, Rome, Italy
 *   Aviano NATO base, Italy
@@ -49,12 +54,12 @@ Each of those locations has their own strangelet bomb on its territory. Those st
 
 [http://cerntruth.wordpress.com/2010/03/29/open-letter-to-science/](http://cerntruth.wordpress.com/2010/03/29/open-letter-to-science/)
 
-## More About the Chimera
+### More About the Chimera
 
 If you desire at this point to know a lot more details about this Chimera group then you can visit the following link where you will find details about 1) their connection to Nazi Germany: 2) their creation of a planetary network of plasma scalar devices: 3) How the Black Stone is the center of the primary cosmic anomaly of darkness and is far more dangerous than the strangelet bomb, as top quarks are much heavier than strange quarks: 4) How the Chimera group has hijacked the global financial system from the hands of the central bankers in the last decade: 5) How the Resistance were able to siphon off about 70 trillion dollars away from the black funds of the Cabal. (to be later returned to humanity after The Event) 6) How the Chimera group is (has been) the driving force behind the breakaway civilization, manipulating it to help maintaining the quarantine status of planet Earth. 7) How the Chimera (the force behind the technologically advanced negative military, focused on maintaining the quarantine Earth status) and the Archons (black nobility families behind the Jesuits, focused on keeping humanity as religion-programmed slaves in reincarnation cycle) are still at the top of the food chain. The Rothschild faction (Zionist controllers of the mass media and accountants of the global financial system) and the Illuminazi faction (Paperclip-imported crime syndicate) are their subordinates.
 
 > “All this structure will fall apart when the exotic weapons of the Chimera group are removed and therefore their mechanisms of planetary control dissolved.
-> 
+>
 > This is the main condition for the Event to happen.”
 
 NB: This info related above here is taken from updates from the Autumn of 2014 so that you can have a greater appreciation for the amazing progress on many levels that has taken place since then.
@@ -105,8 +110,6 @@ The Islamic State, a Jesuit creation, is having a lot of attention in the mass m
 
 _We are using the Violet Flame to clear Long Island_
 
-[![Long2](http://cdn2.theeventchronicle.com/wp-content/uploads/2016/05/Long2.jpg)](http://cdn2.theeventchronicle.com/wp-content/uploads/2016/05/Long2.jpg)
-
 You can also participate in a meditation to clear Long Island, taking place at 3 am, 11 am and 7 pm GMT daily, whenever it is convenient for you (the link only works if you are signed into your facebook account):
 
 [https://www.facebook.com/events/992623370763624/](https://www.facebook.com/events/992623370763624/)
@@ -139,11 +142,11 @@ The Breakthrough is near!
 
 ## 16th January 2015
 
-> **Since the initialization of the Breakthrough phase after the opening of the IS:IS portal in December,** the Eastern Alliance is speeding up their plans to build an alternative financial structure to the petrodollar system **which was the principal life support system for Chimera group to maintain the quarantine status of planet Earth, utilizing Negative Military as their main operating tool...**
-> 
-> **…the Alliance is rapidly building the new financial infrastructure to be ready when the Event comes**
-> 
-> <cite>Cobra, [Planetary Situation Update, January 16, 2015](http://2012portal.blogspot.se/2015/01/planetary-situation-update.html)</cite>
+**Since the initialization of the Breakthrough phase after the opening of the IS:IS portal in December,** the Eastern Alliance is speeding up their plans to build an alternative financial structure to the petrodollar system **which was the principal life support system for Chimera group to maintain the quarantine status of planet Earth, utilizing Negative Military as their main operating tool...**
+
+**...the Alliance is rapidly building the new financial infrastructure to be ready when the Event comes.**
+
+Cobra, [Planetary Situation Update, January 16, 2015](http://2012portal.blogspot.se/2015/01/planetary-situation-update.html)
 
 
 ## January 29, 2015
@@ -461,6 +464,7 @@ Sadly, it has to be said, that many alternative media websites that might seem t
 We must not forget who we really are. Our physical bodies are merely a very small part of the Light being that we are in truth. Now that there are so many of us awake the end is near. Earths Light Grid is strong and rebuilt and getting stronger by the minute. Many tens of thousands, indeed approximately 100,000 Lightworkers function as pillars of Light on this beautiful grid anchoring the Light of Source between Heaven and Gaia. The groundwork for The Event has truly been laid. Right now as I write these words I feel that Cobra knows so much about what is/has been taking place recently but that cannot be revealed as yet at this sensitive time. On April 23rd he said _“Although it appears nothing is happening, there is much activity behind the scenes. This activity will become more pronounced and visible in May.” _It’s now May 4th as I sit and write these words and God only knows what is about to happen in the coming weeks and months.
 
 When we insist on staying in that center of peace within, when we follow our innermost calling at each moment then we know that we are in the right place at the right time doing the right thing. We can know that ‘Divine right action is always taking place in our lives’. Right here and now divine right action for you might be a walk in nature, a cup of coffee, a refreshing bath, a visit to a friend or listening to some inspiring music/meditation. Just like on a plane or a ship we learn that we should first put on our own lifejacket before helping others. We need to put our own needs first to then be able to give in balance to whatever/ whoever. Don’t forget joy. We need to put more focus on joy! We’ll make it!
+
 
 Victory of the Light – Liberation and Breakthrough Soon!
 

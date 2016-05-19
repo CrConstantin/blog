@@ -1,10 +1,13 @@
-# The Art of Fighting Without Fighting
-
-Written by: Gary ‘Z’ McGee
+---
+layout: page
+title: "The Art of Fighting Without Fighting"
+date:  2015-11-14 12:00
+author: Gary Wade McGee
+categories: archive
+tags: resistance
+---
 
 Original link: [themindunleashed.org](http://themindunleashed.org/2015/11/the-art-of-fighting-without-fighting.html)
-
-Date: 14 Nov 2015
 
 > "Supreme excellence consists in breaking the enemy's resistance without fighting." - Sun Tzu
 
@@ -30,7 +33,7 @@ One of the most important reasons for [standing on the shoulders of giants](http
 
 In the movie, Bruce Lee's character "tricks" the other character in order to avoid fighting him. It's not that he's afraid to fight him, it's that there really is no point in fighting him just to prove he can beat him. He _knows_ he can beat him. But he would _rather_ teach him a lesson. Hence the art of fighting without fighting requires tricking the situation somehow. It's having the wherewithal to rise above the situation, using _metamind_. It's not only having the capacity to outthink one's opponent, it's also the ability to out-reason one's own emotions (i.e. rising above feelings of anger, jealousy, or revenge). It's a kind of emotional alchemy one must master in the moment in order to get a grip on the situation before it escalates into violence.
 
-Here's the thing: **Acting violently in a violent culture only perpetuates violence.** Similarly, acting immorally in an immoral society just perpetuates immorality. Unhealthy acts beget unhealthy acts. Like [Gandhi](http://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_il_tl?ie=UTF8&camp=1789&creative=9325&index=aps&linkId=MBKZ6VGLYOGVAH7Z) said, ** "An eye for an eye makes the whole world blind."** Lest the whole world go blind, eventually someone wise enough must wake up, swallow their pride, think wisely instead of emotionally, and put a stop to the vicious cycle. One who implements the art of fighting without fighting is precisely the one who ends the violent and immoral cycle. The tactics and methods one uses in practicing this art can be myriad and far-reaching, and always depend on the situation.
+Here's the thing: **Acting violently in a violent culture only perpetuates violence.** Similarly, acting immorally in an immoral society just perpetuates immorality. Unhealthy acts beget unhealthy acts. Like Gandhi said, ** "An eye for an eye makes the whole world blind."** Lest the whole world go blind, eventually someone wise enough must wake up, swallow their pride, think wisely instead of emotionally, and put a stop to the vicious cycle. One who implements the art of fighting without fighting is precisely the one who ends the violent and immoral cycle. The tactics and methods one uses in practicing this art can be myriad and far-reaching, and always depend on the situation.
 
 The key is to find a middle ground. In a violent culture, the worst thing you can do is to react violently (violence should only ever be used as an act of self-defense, and even then used only as a last resort). The second worst thing you can do is to remain complacent and allow atrocities to occur. The best course of action is to be proactively non-violent through strategic and wise [civil disobedience](http://www.wakingtimes.com/2013/08/10/civil-disobedience-the-right-of-revolution/).
 

@@ -1,10 +1,13 @@
-# How to Count Coup Like a Genius
-
-Written by: Gary ‘Z’ McGee
+---
+layout: page
+title: "How to Count Coup Like a Genius"
+date:  2012-03-26 12:00
+author: Gary Wade McGee
+categories: archive
+tags: resistance
+---
 
 Original link: [wakingtimes.com](http://wakingtimes.com/2012/03/26/how-to-count-coup-like-a-genius/)
-
-Date: 26 mar 2012
 
 > "No redemption can be found in the avoidance of difficult issues. Redemption comes only after we have moved through the horrors of our present situation to the better world that lies beyond it. By confronting the problem as courageously as we can and at the same time presenting alternatives, our barriers to clarity, including our false hopes, may crumble to reveal previously unseen possibilities." - Derrick Jensen
 
