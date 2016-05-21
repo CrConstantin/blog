@@ -7,6 +7,8 @@ categories: personal
 tags: ro
 ---
 
+_Citeste articolul..._
+
 Aceasta este prima data cand scriu un articol atat de complex. Va rog sa fiti ingaduitori.
 
 _Info: Acest articol foloseste multi termeni tehnici_.

@@ -7,13 +7,11 @@ categories: archive
 tags: resistance
 ---
 
-Original link: [themindunleashed.org](http://themindunleashed.org/2015/11/the-art-of-fighting-without-fighting.html)
+Imagine you are back in high school and a bully starts making fun of you in front of everyone. What do you do? Poke fun back? Cry? Run? Punch him in the face? What? The answer is none of the above.
 
 > "Supreme excellence consists in breaking the enemy's resistance without fighting." - Sun Tzu
 
 > "It is useless to fight against people's rigid ways, or to argue against their irrational concepts. You will only waste time and make yourself rigid in the process. The best strategy is to simply accept rigidity in others, outwardly displaying deference to their need for order. On your own, however, you must work to maintain your open spirit, letting go of bad habits and deliberately cultivating new ideas." - [Robert Greene](http://www.amazon.com/gp/product/014312417X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=014312417X&tag=wakitime09-20&linkId=4N7P5SKH2ZZH3QQH)
-
-Imagine you are back in high school and a bully starts making fun of you in front of everyone. What do you do? Poke fun back? Cry? Run? Punch him in the face? What? The answer is none of the above.
 
 The best way to deal with a bully who is making fun of you is to make fun of yourself better than the bully did. The worst way to deal with a bully is to retaliate. This is because retaliation perpetuates the bully's agenda and leads to violence, whereas making fun of yourself uses self-deprecating humor to derail the bully's agenda while forcing the bully into a confused psychosocial dilemma. It's a power-play, and it's all psychological. The bully expects you to poke fun back at him, or cry, or run, or throw a punch; anything but you making fun of yourself. And if you can do it better than the bully did, then bully for you. Pun intended.
 
@@ -46,6 +44,8 @@ The non-violent, amoral agent practicing the art of fighting without fighting is
 The art of fighting without fighting is a celebration of trickery and satire, not guns and violence. It's the understanding that a violent person is almost always a symbol of failure. Violence is immature at best, and deadly at worst. True courage isn't blowing up a hostile tank, it's counting coup on your enemy in hilarious ways. It's tricking your "opponent" into boarding a dingy so you can fight him on a nearby island, but then pushing the dingy away from the boat before boarding it. It's making fun of yourself better than the bully did. It's becoming the sponge, absorbing the worst the system can dish out, and then wringing it out in imaginative, paradigm crushing, comfort zone stretching, box-flattening ways. It's mocking Power itself. It's laughing at authority and using a sincere sense of humor to dethrone self-seriousness.
 
 When confronted with violence, we're conditioned to be violent. When confronted with war, we're conditioned to want war. When teased by a bully we're "supposed to" retaliate, or tease back, or run, or fight. But the art of fighting without fighting changes the name of the game. It turns the tables on the psychosocial dynamic being played out. It kicks the ego off its throne of nothingness by changing the way the game is "usually" played. It propels us into becoming infinite players playing the game of life, instead of finite players being played by the game. It is staring into the outdated mirror of the status quo and saying, "Don't worry so much about supposed to," and then doing whatever is necessary to bring tonality to an otherwise atonal world. Like E.E. Cummings said, "To be nobody but yourself in a world which is doing its best, night and day, to make you everybody else, means to fight the hardest battle which any human being can fight; and never stop fighting."
+
+Original link: [themindunleashed.org](http://themindunleashed.org/2015/11/the-art-of-fighting-without-fighting.html)
 
 <hr />
 

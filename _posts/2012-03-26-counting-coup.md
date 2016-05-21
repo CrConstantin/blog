@@ -7,13 +7,11 @@ categories: archive
 tags: resistance
 ---
 
-Original link: [wakingtimes.com](http://wakingtimes.com/2012/03/26/how-to-count-coup-like-a-genius/)
+Modern Man has become a blur of inert but reflective activity. The problem is that he has become narcissistically lost in his own reflection. Like Kierkegaard once surmised, "Reflection is a snare in which one is caught, but, once the "leap" of enthusiasm has been taken, the relation is a different one and it becomes a noose which drags one into eternity." Counting coup is our leap of enthusiasm. In order to relieve ourselves of the "snare" of narcissism we must first journey through our own unconscious, but, more particularly, down a path that will challenge us and bring enthusiasm into our lives. If we can plant our coup-stick without destroying ourselves, we will have arrived at a place where we can discover eternity, and maybe even discover the power to mold our own destiny.
 
 > "No redemption can be found in the avoidance of difficult issues. Redemption comes only after we have moved through the horrors of our present situation to the better world that lies beyond it. By confronting the problem as courageously as we can and at the same time presenting alternatives, our barriers to clarity, including our false hopes, may crumble to reveal previously unseen possibilities." - Derrick Jensen
 
 > "To be human is necessarily to be a vulnerable risk-taker; to be a courageous human is to be good at it." - Jonathan Lear
-
-Modern Man has become a blur of inert but reflective activity. The problem is that he has become narcissistically lost in his own reflection. Like Kierkegaard once surmised, "Reflection is a snare in which one is caught, but, once the "leap" of enthusiasm has been taken, the relation is a different one and it becomes a noose which drags one into eternity." Counting coup is our leap of enthusiasm. In order to relieve ourselves of the "snare" of narcissism we must first journey through our own unconscious, but, more particularly, down a path that will challenge us and bring enthusiasm into our lives. If we can plant our coup-stick without destroying ourselves, we will have arrived at a place where we can discover eternity, and maybe even discover the power to mold our own destiny.
 
 The concept of counting coup is a Native American act of courage referring to the winning of prestige in battle. A person wins prestige by uncommon acts of bravery in the face of an enemy. Danger and risk is required to count coup and it can be recorded by touching an enemy in battle and then escaping unharmed. Typically a coup stick was used to "touch" the enemy, but coup could still be counted by touching the enemy with a hand or bow. As far as counting coup like a genius is concerned, it is an intellectual/imaginative gambit, where we hold our metaphorical coup stick warningly over the enemy: our pampered, inert, narcissistic post-modern egos.
 
@@ -36,6 +34,8 @@ Counting coup on our Ego is an act that puts us in a place where we can accept t
 Small and hidden are the doors to primordial consciousness, the doors to perception. The entrance is barred and guarded by countless fears, doubts, and negative cultural cliches that have been handed down from traditionally unhealthy lifestyles. But they are there waiting to be opened up by each one of us. The only key required to opening this door is courage, and a willingness to give birth to ourselves over and over again. Counting coup on Ego is just such an act of courage. If we can devote ourselves to this task, the truth will not be withheld from us. The discovery of our unique authenticity will be revealed, like a butterfly emerging from a cocoon. But nobody ever said the journey would be easy. Nobody ever said it wouldn't hurt like hell. And if they did they were lying, plain and simple.
 
 Like The Dread Pirate Roberts says to the Princess in The Princess Bride, "Life is pain, Highness. Anyone who says differently is selling something."
+
+Original link: [wakingtimes.com](http://wakingtimes.com/2012/03/26/how-to-count-coup-like-a-genius/)
 
 <hr />
 
