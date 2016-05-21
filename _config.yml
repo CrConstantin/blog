@@ -8,6 +8,9 @@ url: "https://croqaz.github.io"
 twitter_username: croqaz
 github_username:  croqaz
 
+sass:
+  style: compressed
+
 permalink: pretty
 markdown: kramdown
 paginate: 10
