@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cobra/ Prepare for Change: May Interview
+title: Cobra + Prepare for Change: May Interview
 date:  2016-05-30 12:00
 author: Dane Arr
 categories: archive
