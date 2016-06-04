@@ -241,8 +241,6 @@ Also, of course, the Mt. Shasta Summer Conference Part 2, the Secret Space Progr
 
 Victory to the Light.
 
-**Related [Rob Potter and Corey Goode Part 1 | April 7th 2016: Non-Interference Treaty from Mohammad's Era, Anshar Alliance, Space Wars Stopped in Recent Times](http://sitsshow.blogspot.com/2016/04/Rob-Potter-and-Corey-Goode-Part-1-April-7th-2016-Non-Interference-Treaty-from-Mohammads-Era-Anshar-Alliance-Space-Wars-Stopped-in-Recent-Times.html)**
+Related: [Rob Potter and Corey Goode Part 1 | April 7th 2016: Non-Interference Treaty from Mohammad's Era, Anshar Alliance, Space Wars Stopped in Recent Times](http://sitsshow.blogspot.com/2016/04/Rob-Potter-and-Corey-Goode-Part-1-April-7th-2016-Non-Interference-Treaty-from-Mohammads-Era-Anshar-Alliance-Space-Wars-Stopped-in-Recent-Times.html)
 
-**[CONTINUE READING](http://thepromiserevealed.com/corey-goode-cobra-interview-w-rob-potter-part-2/) @ thepromiserevealed.com**
-
-**Source**: [http://thepromiserevealed.com/corey-goode-cobra-interview-w-rob-potter-part-2/](http://thepromiserevealed.com/corey-goode-cobra-interview-w-rob-potter-part-2/)
+Source: [http://thepromiserevealed.com/corey-goode-cobra-interview-w-rob-potter-part-2/](http://thepromiserevealed.com/corey-goode-cobra-interview-w-rob-potter-part-2/)
