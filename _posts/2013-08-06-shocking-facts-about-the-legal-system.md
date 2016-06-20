@@ -80,6 +80,8 @@ The U.N. also holds all of the land of America in Fee Simple.
 The good news is we don't have to fulfill "our" fictitious obligations. You can discharge a fictitious obligation with another's fictitious obligation.
 
 
+Original link: [Stillness in the Storm - Pope 'Ruler of the World' to go after War Criminals?](http://sitsshow.blogspot.ca/2013/07/pope-ruler-of-world-to-go-after-war.html)
+
 **Sources for this Post:**
 
 http://one-heaven.org/canons/positive_law/article/100.html

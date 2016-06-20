@@ -9,6 +9,8 @@ tags: aliens
 
 Although things seem "almost too quiet" in the open world at the moment, the war in the Secret Space Program world has never been hotter or more intense...
 
+![](/public/images/Chevron-battle-final.jpg)
+
 We are no longer getting full intel due to operational security -- but we have strong clues as to what this is leading to.
 
 The art at the top of this article is a professional rendition of the aerial part of the battle that is happening now, based on high-level intel.
@@ -23,7 +25,7 @@ In order to set up the story, it is necessary to frame the expansive new view th
 
 [Note: The article will undergo updates that will be added in red after it is first posted, over the next 24 hours. We will notate them here as it unfolds.]
 
-**PART ONE: CARGO CULTS AND THE SECRET SPACE PROGRAM**
+### **PART ONE: CARGO CULTS AND THE SECRET SPACE PROGRAM**
 
 **A RADICAL CHANGE CAN QUICKLY BECOME THE BORING "NEW NORMAL"**
 
@@ -37,9 +39,7 @@ With just a few clicks, you can guarantee that in as little as 24 hours, someone
 
 You don't have to do any work to make those items. Nor do you have to go anywhere to find them. They just manifest as if by magic.
 
-![](/images/morgan_freeman_ipad_art_800home_thumb800.jpg)
-
-**EVERYTHING SEEMS ORDINARY**
+### **EVERYTHING SEEMS ORDINARY**
 
 Now take a look at your surroundings. If you are indoors, notice things like glass windows, carpeted floors, electric appliances and the clothing you wear.
 
@@ -51,15 +51,15 @@ Yet if you projected someone from even a few hundred years ago into your situati
 
 If they were then returned to their own vicinity, they would soon tell tales of meeting mystical "gods" in a heavenly realm with inexplicable magic and wizardry.
 
-**EVERYTHING YOU EXPERIENCE BECOMES "NORMAL"**
+### **EVERYTHING YOU EXPERIENCE BECOMES "NORMAL"**
 
 You can also jump on a plane and travel vast distances that would have taken months, either by horse or by boat, before the [railroad was invented in 1804.](https://en.wikipedia.org/wiki/History_of_rail_transport)
 
 You can now travel fast enough that the time your body expected to be day becomes night -- and vice versa.
 
-![](/images/First-Railroad-Passenger-Car.jpg)
+![](/public/images/First-Railroad-Passenger-Car.jpg)
 
-![](/images/first_railroad.jpg)
+![](/public/images/first_railroad.jpg)
 
 Any interior location is ultimately just some form of a room. There you are in a room, sitting down, maybe looking out the window, and it's all very typical.
 
@@ -67,7 +67,7 @@ If you are in a car, train or plane, you are still inside a familiar craft.
 
 The seats, the windows, the decor and what you see outside the craft is all completely non-challenging to your belief systems. Everybody knows this stuff.
 
-**LOTS OF DIFFERENT PEOPLE TO MEET**
+### **LOTS OF DIFFERENT PEOPLE TO MEET**
 
 You see people of all different races in the course of your daily routine -- both in person and in other forms. Asians, Latinos, Caucasians, people of African descent and others.
 
@@ -77,7 +77,7 @@ It's only when something or someone new comes along that, for a brief time, your
 
 Soon, however, even a radical new change -- like discovering a new and different race of people -- becomes a normal, everyday part of life.
 
-**CARGO CULTS**
+### **CARGO CULTS**
 
 Thayer Watkins, a faculty member at San Jose State University, is [one of many scholars to have covered the intriguing phenomenon of "cargo cults" that formed in some of the South Pacific islands.](http://www.sjsu.edu/faculty/watkins/cargocult.htm)
 
@@ -93,7 +93,7 @@ These islands were also used as staging areas to fight active and bloody battles
 
 Hence, Melanesia suddenly became an area of key tactical significance in WWII, providing a very dynamic example of "enculturation" in 20th century history.
 
-![](/images/Melanesian_Cultural_Area1.png)
+![](/public/images/Melanesian_Cultural_Area1.png)
 
 The natives were exposed to a level of sophistication, civilization and technology unlike anything they could possibly have expected before then.
 
@@ -107,7 +107,7 @@ The idea that their population was very small, and there were far greater places
 
 Nor could they imagine technology beyond the primitive level they had attained on their own.
 
-**PROF. THAYER WATKINS ON THE 'CARGO CULTS'**
+### **PROF. THAYER WATKINS ON THE 'CARGO CULTS'**
 
 Here is the excerpt from our San Jose State University professor that helps us get this discussion started.
 
@@ -127,9 +127,9 @@ This religion, known as the Cargo Cult, held that if the proper ceremonies were 
 
 It was all very logical to the islanders.
 
-![](/images/cargo-cult.jpg)
+![](/public/images/cargo-cult.jpg)
 
-![](/images/cargocult_plane_fire.jpg)
+![](/public/images/cargocult_plane_fire.jpg)
 
 The islanders saw that they worked hard but were poor, whereas the Europeans and Americans did not work but instead wrote things down on paper. 
 
@@ -139,15 +139,15 @@ The Cargo Cult members built replicas of airports and airplanes out of twigs and
 
 They made the sounds associated with airplanes to try to activate the shipment of cargo.
 
-![](/images/cargo-big.jpg)
+![](/public/images/cargo-big.jpg)
 
-![](/images/Cargo-Cult_behind_plane.jpg)
+![](/public/images/Cargo-Cult_behind_plane.jpg)
 
 Although the existence of the Cargo Cult only became known after World War II, the cult had developed long before, when the Europeans first arrived in the area in ships.
 
 There were legends among the islanders of their distant ancestor-god having journeyed to the west, and promising to someday return....
 
-![](/images/cargo_cults_11.jpg)
+![](/public/images/cargo_cults_11.jpg)
 
 Islanders would build a hut in the forest, and the cultees would bring money and leave it in the hut in expectation that it would grow.
 
@@ -155,15 +155,15 @@ Sometimes replicas of briefcases would be used to hold the money.
 
 Unfortunately the money would often be stolen from these jungle banks, leaving the islanders even poorer than they were before....
 
-![](/images/cargo_cults_17.jpg)
+![](/public/images/cargo_cults_17.jpg)
 
-![](/images/cargo_cult_goggles.jpg)
+![](/public/images/cargo_cult_goggles.jpg)
 
-![](/images/xMH_CargoCults_.jpg)
+![](/public/images/xMH_CargoCults_.jpg)
 
-![](/images/cargo_005.jpg)
+![](/public/images/cargo_005.jpg)
 
-![](/images/john-frum-day-03.jpg)
+![](/public/images/john-frum-day-03.jpg)
 
 In New Guinea, the Australian authorities enlisted the aid of the son of a famous warrior to discourage the Cargo Cult.
 
@@ -175,7 +175,7 @@ When the man returned to New Guinea, he spread the word that **the source of the
 
 A new cult developed around this idea.
 
-**THE PROMISES OF THE "GODS" WERE NOT KEPT**
+### **THE PROMISES OF THE "GODS" WERE NOT KEPT**
 
 The WWII soldiers who visited and assisted these islands also shared their own Christian teachings, including the idea of end times and Ascension.
 
@@ -187,13 +187,13 @@ The "Cargo cults" formed after these cultures were left alone. The results were 
 
 Even the most mundane aspects of our "modern" civilization were elevated into elaborate, arcane religious ceremonies, held in extremely high importance.
 
-![](/images/cargo_cult_gun.jpg)
+![](/public/images/cargo_cult_gun.jpg)
 
-![](/images/cargo-cult2.jpg)
+![](/public/images/cargo-cult2.jpg)
 
-![](/images/cargocult_plane_prayer.jpg)
+![](/public/images/cargocult_plane_prayer.jpg)
 
-**AN ENTIRELY DIFFERENT CIVILIZATION COULD BE OPERATING ON EARTH WITHOUT OUR AWARENESS**
+### **AN ENTIRELY DIFFERENT CIVILIZATION COULD BE OPERATING ON EARTH WITHOUT OUR AWARENESS**
 
 Although this knowledge is publicly available, it carries far greater significance within the insider military-industrial complex community than in the world at large.
 
@@ -207,8 +207,6 @@ The original "Cargo" may have long since disappeared, but various relics and art
 
 Other "Cargo" may have crashed in far more recently -- and inspired many of the breakthroughs we now take for granted in our society.
 
-![](/images/5789476_apples-ipad-air-the-worlds-thinnest_t25859454.jpg)
-
 We now think we have all the answers. We fervently believe we understand reality, and that our conclusions are sensible, even obvious.
 
 We fight and defend our belief systems, even to the death, since they are "normal." It is what "God" has revealed to us -- such as the god of Science.
@@ -219,7 +217,7 @@ We can barely imagine having anything better at this point.
 
 Each new change is gradual enough that we are only somewhat excited before it, too, becomes "normal."
 
-**SCIENTIFIC AMERICAN DISCUSSED THE CARGO CULT RELIGION IN MAY 1959**
+### **SCIENTIFIC AMERICAN DISCUSSED THE CARGO CULT RELIGION IN MAY 1959**
 
 Like the cargo cults, we have only had brief glimpses of "unidentified flying objects" and "aliens" in the everyday world.
 
@@ -253,25 +251,25 @@ The G.I.s who landed in the New Hebrides, moving up for the bloody fighting on G
 
 **[The natives were] preparing airfields, roads and docks for the magic ships and planes that they believed were coming from "Rusefel" (Roosevelt), the friendly king of America.**
 
-**LET'S THINK IF THERE ARE ANY PARALLELS**
+### **LET'S THINK IF THERE ARE ANY PARALLELS**
 
 If you don't think the "cargo cults" have any similarity to what is going now, these images may cause you to think again:
 
-![](/images/Ben-and-Balloon.jpg)
+![](/public/images/Ben-and-Balloon.jpg)
 
-![](/images/M5007.jpg)
+![](/public/images/M5007.jpg)
 
-![](/images/autotitre_com_.jpg)
+![](/public/images/autotitre_com_.jpg)
 
-![](/images/giorgio_tsoukalos.jpg)
+![](/public/images/giorgio_tsoukalos.jpg)
 
-![](/images/et_crash.jpg)
+![](/public/images/et_crash.jpg)
 
-![](/images/et_costume.jpg)
+![](/public/images/et_costume.jpg)
 
-![](/images/space%2Bship.jpg)
+![](/public/images/space%2Bship.jpg)
 
-![](/images/sexy_et_costume.jpg)
+![](/public/images/sexy_et_costume.jpg)
 
 **DON'T TAKE THIS THE WRONG WAY**
 
@@ -289,7 +287,7 @@ Our own "cargo cult" has certain religious beliefs about these places that are n
 
 Everything we think we know is 'normal' to us, and therefore considered to be an everyday fact of life.
 
-**WE ARE THE ISLANDS WITH OUR OWN "CARGO CULTS"**
+### **WE ARE THE ISLANDS WITH OUR OWN "CARGO CULTS"**
 
 We now have extensive, undeniable evidence that our solar system and our own Earth is already colonized on a vast scale by people we are not normally familiar with.
 
@@ -309,7 +307,7 @@ Pre-ordering the book locks in a lower price and ensures you will receive "cargo
 
 [LINK TO AMAZON LISTING OF "THE ASCENSION MYSTERIES"](http://www.amazon.com/gp/product/1101984074)
 
-**SOME PEOPLE ON OUR ISLANDS DO KNOW ABOUT "THE REST OF THE WORLD"**
+### **SOME PEOPLE ON OUR ISLANDS DO KNOW ABOUT "THE REST OF THE WORLD"**
 
 There are also people from our own 'islands' who are already deeply involved in this greater civilization. 
 
@@ -317,7 +315,7 @@ They have hidden that connection from the rest of us.
 
 New insider testimony has revealed that the Cabal -- the global elite bankers -- were pursuing a Secret Space Program (SSP) ever since the late 1700s, at least.
 
-**THE FIRST SSP MOVES WERE TO MAKE DIRIGIBLES**
+### **THE FIRST SSP MOVES WERE TO MAKE DIRIGIBLES**
 
 The Cabal's first move was to set up secret bases in South America in the early 1800s. 
 
@@ -327,7 +325,7 @@ The work began on a larger scale by 1825, and significant success was achieved b
 
 [In the open, declassified world, the first steam-powered airship appeared in 1852\. It traveled for 17 miles at 6 miles per hour.](http://www.popularmechanics.com/flight/g1281/a-brief-history-of-the-airship/?slide=2)
 
-![](/images/54cb1b5592f17_-_bho-airship-02-0913-lgn-72357366.jpg)
+![](/public/images/bho-airship1.jpg)
 
 As always, the classified tech was much better than anything the world was seeing.
 
@@ -335,19 +333,17 @@ Count Ferdinand Von Zeppelin patented a rigid airship design in 1895 that led to
 
 Von Zeppelin's patent was another example of a classified technology leaking out into the open so it could eventually be used for tactical purposes.
 
-![](/images/54cb1b5744563_-_bho-airship-05-0913-de-74442678.jpg)
+![](/public/images/bho-airship2.jpg)
 
 Ultimately dirigibles were discontinued after [events like the Hindenberg in 1937,](http://www.popularmechanics.com/flight/g1281/a-brief-history-of-the-airship/?slide=5) and the realization that strong wind currents could slam them to earth and kill everyone.
 
 Classified German dirigibles from World War I were so huge that they served as flying aircraft carriers, capable of transporting multiple warplanes at once.
 
-![](/images/blimp-size.jpg)
+![](/public/images/blimp-size.jpg)
 
-![](/images/376d8a652028e4b940c378f37e147619.jpg)
+![](/public/images/Schutte-Lanz_silhouettes.jpg)
 
-![](/images/Schutte-Lanz_silhouettes.jpg)
-
-**CLASSIFIED AIRSHIPS MADE A BIG SHOWING IN 1895-96**
+### **CLASSIFIED AIRSHIPS MADE A BIG SHOWING IN 1895-96**
 
 In the classified world, things were moving along much better in the 1800s.
 
@@ -361,7 +357,7 @@ Real antigravity and the ability to leave Earth orbit did not arrive until the G
 
 This data has been provided by insiders including "Bruce," Hoagland's top insider featured in the new book, as well as aerospace engineer William Tompkins.
 
-**WARS ARE ONGOING TO KEEP US FROM KNOWING THE TRUTH**
+### **WARS ARE ONGOING TO KEEP US FROM KNOWING THE TRUTH**
 
 Wars have been fought for millennia to keep our 'islands' from knowing about the vastly larger populations that surround us, and the technology they have.
 
@@ -381,15 +377,7 @@ The Melanesians had no idea how huge our world really was. All they saw were a f
 
 As we head into Part Two, we will discuss the massive amount of human life in our galaxy, and the differences in time perception that can and do occur.
 
-[CLICK HERE FOR PART TWO: TIME AND SPACE](http://divinecosmos.com/start-here/davids-blog/1200-full-disclosure-asc?showall=&start=1)
-
-![](/images/Chevron-battle-final_s.jpg)
-
-**PART TWO: TIME AND SPACE**
-
-[CLICK HERE FOR PART ONE: CARGO CULTS AND THE SECRET SPACE PROGRAM](http://divinecosmos.com/start-here/davids-blog/1200-full-disclosure-asc)
-
-**NORMAL TIME FOR US MAY BE VERY SLOW FOR OTHERS**
+### **NORMAL TIME FOR US MAY BE VERY SLOW FOR OTHERS**
 
 Now that we have reviewed cargo cults and the idea that a classified mission to colonize space was well underway in the 1800s, it is important to widen our focus.
 
@@ -417,13 +405,13 @@ The evidence comes from research into the ability of animals to detect separate 
 
 "Some can perceive quite a fast flicker and others much slower, so that a flickering light looks like a blur.
 
-"Interestingly, there's a large difference between big and small species. **Animals smaller than us see the world in slo-mo. It seems to be almost a fact of life.**
+"Interestingly, there's a large difference between big and small species. **Animals smaller than us see the world in slo-mo. It seems to be almost a fact of life**.
 
-"Our focus was on vertebrates, but **if you look at flies, they can perceive light flickering up to four times faster than we can.**
+"Our focus was on vertebrates, but **if you look at flies, they can perceive light flickering up to four times faster than we can**.
 
 "You can imagine a fly literally seeing everything in slow motion."
 
-**INSIDERS ARE WELL AWARE OF THE "FLICKER FREQUENCY"**
+### **INSIDERS ARE WELL AWARE OF THE "FLICKER FREQUENCY"**
 
 This "flicker frequency" effect has been widely known to insiders for some time.
 
@@ -439,7 +427,7 @@ It does appear that this is directly correlated with the amount of extraterrestr
 
 This "vibrational increase" can also be taught. It is not strictly genetic in nature. The "ageless wisdom" of all great spiritual teachings tells us how to do this.
 
-**THE FLICKER FREQUENCY GENERATOR**
+### **THE FLICKER FREQUENCY GENERATOR**
 
 Pete also invented a "flicker frequency generator" that was used by all high-level American politicians to help them avoid various mind control strategies.
 
@@ -451,7 +439,7 @@ There are various technologies, such as extremely low-frequency or ELF waves, th
 
 These devices effectively counteracted those influences. All politicians of the 60s and 70s were secretly wearing these devices according to Peterson.
 
-**HUMAN ETs ARE ANOTHER GREAT SECRET**
+### **HUMAN ETs ARE ANOTHER GREAT SECRET**
 
 The arrival and interbreeding of extraterrestrial humans on earth -- people who look similar to us or just like us -- is another great insider secret.
 
@@ -463,7 +451,7 @@ These people arrived as giants with elongated skulls. The best time estimate of 
 
 They were many tens of IQ points ahead of everyone else. They portrayed themselves as "gods" and established rulership all over the world.
 
-![](/images/meritaten_side.jpg)
+![](/public/images/meritaten_side.jpg)
 
 _Bust of Egyptian Pharaoh Akenhaten / Nefertiti's Daughter Meritaten -- Side View_
 
@@ -473,9 +461,9 @@ Over thousands of years, some of them dropped to normal human heights while reta
 
 This included the Egyptian dynasties, Peru, Boskop South Africa, and Siberia, as discussed in the book.
 
-![](/images/PPP.jpeg)
+![](/public/images/PPP.jpeg)
 
-![](/images/elongated_skull_side.png)
+![](/public/images/elongated_skull_side.png)
 
 Others remained as giants, while still having the elongated skulls.
 
@@ -487,7 +475,7 @@ Despite the fascination and detail of this story, this is still only one of a wi
 
 The Cabal group we call "the Empire" in the book has kept its existence hidden from the rest of us, since they are afraid of being singled out as invaders.
 
-**THE ELITE ARE BEING EXPOSED**
+### **THE ELITE ARE BEING EXPOSED**
 
 Furthermore, they consider themselves to be the "elite," the descendants of gods, and the rest of us to be inferior beings -- even "useless eaters." 
 
@@ -499,7 +487,7 @@ The dam is starting to break on this story.
 
 Earlier this week, the main page of Huffington Post carried a testimonial from Elijah Wood of the Lord of the Rings trilogy, exposing darkness in Hollywood.
 
-![](/images/huff_elijah.jpg)
+![](/public/images/huff_elijah.jpg)
 
 5/23: Elijah Wood Says Hollywood Has a Pedophilia Crisis On Its Hands
 
@@ -517,7 +505,7 @@ Wood may be the highest-level celebrity yet to come forward about what he knows 
 
 The Cabal cannot silence people indefinitely. The dam is breaking.
 
-**GAME OF THRONES IS A CABAL DOCUMENTARY, THINLY DISGUISED AS FICTION**
+### **GAME OF THRONES IS A CABAL DOCUMENTARY, THINLY DISGUISED AS FICTION**
 
 Insiders also told me that "Game of Thrones" was intended to reveal "Illuminati" secrets about British history, thinly disguised as fiction.
 
@@ -529,7 +517,7 @@ Though this guy talks a little too fast for my taste, he nonetheless shares a va
 
 <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/Pj9fn4L4Njk" width="560"></iframe>
 
-**THE RABBIT HOLE GOES VERY, VERY DEEP**
+### **THE RABBIT HOLE GOES VERY, VERY DEEP**
 
 "Game of Thrones" is only one of countless examples of movies and TV shows that expose the Cabal / Illuminati agenda.
 
@@ -547,23 +535,21 @@ The only difference in the film is that "Cain" is changed to "Steve," making it 
 
 Were they copying us? Very unlikely.
 
-![](/images/owen-wilson-eyepatch.jpg)
-
 Owen Wilson's character spends the first 15-20 minutes of the movie wearing an eagle-like golden wing over his right eye -- a clear Cabal symbol.
 
 This does not mean Wilson is "one of them." One high-level insider told me "Comedy actors always want to work, and are encouraged to take all offers."
 
 It does appear that many actors have little or no understanding of what is really going on. That way they are never a threat if they decided to talk.
 
-**JUSTIN BIEBER IS SHOT TO DEATH PROTECTING THE BLOODLINE OF CAIN**
+### **JUSTIN BIEBER IS SHOT TO DEATH PROTECTING THE BLOODLINE OF CAIN**
 
 Justin Bieber is shot to death at the beginning of the movie, and is one of many celebrities who died protecting the secrets of the bloodline.
 
-![](/images/justin-bieber-zoolander-inline-zoom-f19b366f-a0db-41a5-976c-a67fd3f5c66a.jpg)
+![](/public/images/justin-bieber-zoolander-inline-zoom-f19b366f-a0db-41a5-976c-a67fd3f5c66a.jpg)
 
-![](/images/Zoolander-2-Trailer.jpg)
+![](/public/images/Zoolander-2-Trailer.jpg)
 
-**THE ENTIRE THIRD ACT IS A CHILD SACRIFICE**
+### **THE ENTIRE THIRD ACT IS A CHILD SACRIFICE**
 
 Movies are written in three-act structures. Act 1 is traditionally pages 1-30 in a screenplay. Act II is 30 through 90\. Act III is 90 through 120, and the movie ends. 
 
@@ -585,7 +571,7 @@ Fashion Cameos in Zoolander 2
 
 There’s even a turn from American Vogue editor **Anna Wintour** – and, inevitably, **Kim Kardashian**.
 
-**THE FASHION ICONS ARE ALL PARTICIPATING IN A CABAL-TYPE RITUAL**
+### **THE FASHION ICONS ARE ALL PARTICIPATING IN A CABAL-TYPE RITUAL**
 
 These real-world fashion designers are all wearing hooded cloaks and have gathered in a stony dungeon to participate in the child sacrifice.
 
@@ -607,7 +593,7 @@ The man shouts and rants about the fashion industry, takes a wide knife and atte
 
 The man shouts that he wants the blood of the fat little chosen one.
 
-**THIS PROBLEM IS NOT AS OBSCURE AS YOU MIGHT THINK**
+### **THIS PROBLEM IS NOT AS OBSCURE AS YOU MIGHT THINK**
 
 "Well, that's just a movie," the skeptic or paid disinformant might say. "They are just making fun of Illuminati conspiracy theories."
 
@@ -633,7 +619,7 @@ Since then, other household names have been convicted, allegations have been mad
 
 Bailey said that **666 of the offenders being investigated were alleged to have carried out abuse at institutions including schools, children's homes, and religious institutions.**
 
-**HMM... NOW WHY WOULD THEY SAY 666 OFFENDERS ABUSED IN SCHOOLS AND RELIGIOUS INSTITUTIONS?**
+### **HMM... NOW WHY WOULD THEY SAY 666 OFFENDERS ABUSED IN SCHOOLS AND RELIGIOUS INSTITUTIONS?**
 
 The number 666 appears to have been deliberately included in this Reuters article as a clue "for those with eyes to see" that this is a Luciferian cult problem.
 
@@ -645,11 +631,11 @@ If you want to read the full, ugly truth of the problem, check out the UK Daily 
 
 You will read eyewitness testimony of someone being raped in a children's hospital by Savile and others in black robes as part of a satanic ritual.
 
-![](/images/savile-satan-solo.jpg)
+![](/public/images/savile-satan-solo.jpg)
 
-![](/images/savile_crowley.jpg)
+![](/public/images/savile_crowley.jpg)
 
-**THIS NEGATIVE INFLUENCE HAS AFFECTED ALL OF US**
+### **THIS NEGATIVE INFLUENCE HAS AFFECTED ALL OF US**
 
 _The Ascension Mysteries_ discusses this problem thoroughly, including how this negative influence in our society affects us in our everyday lives. 
 
@@ -657,7 +643,7 @@ It also reveals the full, cosmic scope of how these people got here, and the var
 
 We are the new equivalent of Melanesia, [(see Part One,)](http://divinecosmos.com/start-here/davids-blog/1200-full-disclosure-asc) and the world is much bigger and has far more people living on it than what we see on the "islands."
 
-**THE BATTLE FOR FULL DISCLOSURE**
+### **THE BATTLE FOR FULL DISCLOSURE**
 
 Major wars are now taking place that are bringing the battle for Full Disclosure to the forefront of our times.
 
@@ -665,13 +651,13 @@ Hillary Clinton is using the promise of disclosure to try to attract more voters
 
 [The New York Times covered this story in detail as of May 10th.](http://www.nytimes.com/2016/05/11/us/politics/hillary-clinton-aliens.html)
 
-![](/images/hillary_xfiles.jpg)
+![](/public/images/hillary_xfiles.jpg)
 
 Furthermore, military maneuvers occurred this past week in Tampa, Florida, suggesting possible training exercises for major events in our near future.
 
 We have heard intel for years now that there will be arrests of many high-level Cabal people at some critical moment, involving combined military maneuvers.
 
-![](/images/special_ops.jpg)
+![](/public/images/special_ops.jpg)
 
 Special Ops Troops Assault Downtown Tampa to Thunderous Applause
 
@@ -687,7 +673,7 @@ Aside from U.S. Special Operations forces, including Navy SEALs, Marine Raiders 
 
 “A lot of what we do is a bit secretive, we don’t really advertise much of what we do and there is a reason for it,” U.S. Special Forces Lt. Col. Chris Robeshaw told reporters following the event. “I think … this is maybe a stark reminder that there are young men and women out there putting themselves at risk.”
 
-**ANONYMOUS HACKER COLLECTIVE GOING AFTER CABAL FINANCIAL INSTITUTIONS**
+### **ANONYMOUS HACKER COLLECTIVE GOING AFTER CABAL FINANCIAL INSTITUTIONS**
 
 In several articles on this site, we detailed how at least a part of Anonymous is a secret division of the US military working against the Cabal.
 
@@ -695,7 +681,7 @@ This is one of the groups in what we are now calling the Earth Alliance.
 
 Another sign of the war heating up is that Anonymous has made several very powerful hack attacks against Cabal banks recently:
 
-![](/images/anonymous_hacks_blackout.jpg)
+![](/public/images/anonymous_hacks_blackout.jpg)
 
 5/26: "Anonymous" Hits Top Cabal Financial Institutions, Controlled Media Completely Ignores
 
@@ -769,7 +755,7 @@ However, those who escaped the destruction of Lemuria by natural catastrophe and
 
 There were those in what you would call Russia… [tape ends]
 
-**THERE ARE A VARIETY OF DIFFERENCES JUST WITHIN OUR OWN BIOTA**
+### **THERE ARE A VARIETY OF DIFFERENCES JUST WITHIN OUR OWN BIOTA**
 
 Now let's get back to the science of time perception, as it is of far greater significance in the understanding of certain human ETs than we may realize.
 
@@ -787,13 +773,13 @@ Smaller, more agile creatures had the most refined ability to perceive informati
 
 In other words, they were able to see more flickers of light per second.
 
-**SCIENTIFIC AMERICAN COVERED THE SAME STUDY IN 2014**
+### **SCIENTIFIC AMERICAN COVERED THE SAME STUDY IN 2014**
 
 This groundbreaking study was further explored in a Scientific American article from July 1st, 2014.
 
 7/1/14: Small Animals Live in a Slow-Motion World
 
-[http://www.scientificamerican.com/article/small-animals-live-in-a-slow-motion-world/](http://www.scientificamerican.com/article/small-animals-live-in-a-slow-motion-world/)
+[http://www.scientificamerican.com/article/small-animals-live-in-a-slow-motion-world](http://www.scientificamerican.com/article/small-animals-live-in-a-slow-motion-world)
 
 Evidence suggests that distinct species do indeed experience passing time on different scales....
 
@@ -809,9 +795,9 @@ In other words, movements and events will appear to unfold more slowly to them�
 
 The scientists who ran the new study gathered data from previous experiments on the rate at which visual information is processed in 34 vertebrates, including lizards, birds, fish and mammals....
 
-**Dogs can take in visual information at least 25 percent faster than humans**—just enough to make a television show look like a series of flickering images.
+**Dogs can take in visual information at least 25 percent faster than humans** - just enough to make a television show look like a series of flickering images.
 
-**A CHART OF DIFFERENT TIME PERCEPTION SPEEDS**
+### **A CHART OF DIFFERENT TIME PERCEPTION SPEEDS**
 
 It is interesting to reflect on the idea that dogs are not going to enjoy TV as much as we do, because it doesn't look "real" to them.
 
@@ -821,7 +807,7 @@ The Scientific American article also presented the following graphic, showing th
 
 This is measured in hertz, or cycles per second:
 
-![](/images/SAmind0714-11a.jpg)
+![](/public/images/SAmind0714.jpg)
 
 The sea turtle will observe us as moving 400 percent faster than its own comfort zone, since its time flow runs at 15 hertz and ours runs at 60.
 
@@ -833,7 +819,7 @@ At least in some cases there is a direct relationship between lifespan and the s
 
 The fly has lived a full lifespan, and had a variety of dynamic experiences, within the time unit of its very short existence.
 
-**NOW LET'S EXPAND THIS TO THE IDEA OF HUMAN BEINGS**
+### **NOW LET'S EXPAND THIS TO THE IDEA OF HUMAN BEINGS**
 
 There is ample, redundant evidence from insider testimony, scientifically-validated sources like the Law of One material and alternative science that time itself can pass at different speeds.
 
@@ -847,13 +833,13 @@ The events that inspired the New Testament in the Bible, for example, could have
 
 [As discussed by W.L. Graham on the Bible Reality Check website, the Bible is loaded with ET references, including the word "Lord" translating correctly as "the mighty ones."](http://biblerealitycheck.com/CosTheoReview.htm)
 
-[2 Peter 3:8 is one Bible quote](http://www.kingjamesbibleonline.org/2-Peter-3-8/) that says "one day with (the mighty ones) is as a thousand years, and a thousand years as one day."
+[2 Peter 3:8 is one Bible quote](http://www.kingjamesbibleonline.org/2-Peter-3-8) that says "one day with (the mighty ones) is as a thousand years, and a thousand years as one day."
 
 Multiple Bible scholars believe the term "day" in this and other passages actually means "year," thus giving us a 1000-to-1 ratio.
 
 Some of this data is cited in _The Ascension Mysteries,_ which had required my full attention up until I started a much-needed vacation two weeks ago.
 
-**LET'S CHANGE THE REFERENCE SCALE**
+### **LET'S CHANGE THE REFERENCE SCALE**
 
 Let's say this Bible quote is not mere speculation or foolishness, but actually based on information obtained from positive extraterrestrial humans. 
 
@@ -871,13 +857,13 @@ The great catastrophe that wiped out a worldwide civilization some call Atlantis
 
 The Lemurian catastrophe of 50,000 years ago would have flattened out the largest civilization of giants who crash-landed on earth in about 1966.
 
-**ALL EVOLUTION WORKS THIS WAY**
+### **ALL EVOLUTION WORKS THIS WAY**
 
 Irrefutable scientific evidence will soon be presented in _The Ascension Mysteries_ revealing that earth-like planets, and human life, is very abundant.
 
 This includes a Cambridge evolution expert openly proclaiming that intelligent life should look human wherever you go -- and explaining the reasons why.
 
-Multiple cultures report experiences with human-looking "gods" who gave them all the niceties of our civilization, and then mysteriously diappeared from view. 
+Multiple cultures report experiences with human-looking "gods" who gave them all the niceties of our civilization, and then mysteriously disappeared from view. 
 
 Like the Bible quote, the vast majority of insider sources confirm that ETs have a vastly different perception of time than we do.
 
@@ -885,7 +871,7 @@ They are able to project themselves into our world and interact with us at a spe
 
 This appears to be a natural aspect of the way intelligent life is designed in our universe as it continues evolving.
 
-**THE UNIVERSE PROVIDES GOOD LIVING SPACE FOR PEOPLE AS THEY ADVANCE**
+### **THE UNIVERSE PROVIDES GOOD LIVING SPACE FOR PEOPLE AS THEY ADVANCE**
 
 As we have argued throughout our books and TV shows, and in _The Ascension Mysteries,_ the universe itself has a cosmic intelligence.
 
@@ -899,7 +885,7 @@ In other cases, intelligent civilizations locate underground areas like these an
 
 Great efforts have been made to keep those of us on the "islands" from being aware of these places, for now, and of the people who already live in them.
 
-**TIME IS PERCEIVED MUCH DIFFERENTLY**
+### **TIME IS PERCEIVED MUCH DIFFERENTLY**
 
 Ascension is ultimately a natural, highly predictable quantum leap in human evolution. In the aftermath, we live through vastly longer periods in one life than before.
 
@@ -917,7 +903,7 @@ As we thoroughly explore in _The Ascension Mysteries,_ 35 different ancient cult
 
 The information about this cycle very redundantly includes the idea that the sun gives off a flash of light at the end, and the planet's surface suffers catastrophes.
 
-**SUPERPOWERS LOCKED UP IN OUR DNA ARE ACTIVATED**
+### **SUPERPOWERS LOCKED UP IN OUR DNA ARE ACTIVATED**
 
 I am not at all interested in doom and gloom or "fear porn." The information about this cycle, and the events that follow, is extremely widespread.
 
@@ -931,7 +917,7 @@ In _The Ascension Mysteries,_ we argue that this is a deliberately-designed syst
 
 These flashes of light and energy from the sun do appear to activate incredible "superpowers" that are currently locked up in our DNA.
 
-**IT IS NOT AN AUTOMATIC UPGRADE**
+### **IT IS NOT AN AUTOMATIC UPGRADE**
 
 Not everyone gets these abilities when the event arrives.
 
@@ -943,7 +929,7 @@ Great spiritual teachers like Jesus, Buddha, Mohammed, Krishna and Moses all enc
 
 These character traits do appear to be of critical importance in mastering the "class" we are all here to learn -- and graduating out of it via Ascension.
 
-**THE UNIVERSE HAS A COSMIC PLAN**
+### **THE UNIVERSE HAS A COSMIC PLAN**
 
 As offensive as it may seem to some people, the universe was designed with a very elaborate cosmic plan and purpose for each of us.
 
@@ -959,7 +945,7 @@ The first half of _The Ascension Mysteries_ is more personal than anything else 
 
 By seeing the positive efforts that were made as well as how horribly I had to suffer before turning it all around, you can decide the truth for yourself.
 
-**A LAST-MINUTE EFFORT**
+### **A LAST-MINUTE EFFORT**
 
 If someone like Jesus only appeared two years ago, in a higher frame of reference, then those teachings now become a last-minute effort to help us.
 
@@ -971,7 +957,7 @@ Writing _The Ascension Mysteries,_ and summarizing so many different intersectin
 
 There was also a tremendous amount more to be said than I could possibly fit into one book, and that's why I am sharing all of this with you now.
 
-**FULL DISCLOSURE**
+### **FULL DISCLOSURE**
 
 One of the most important things that will happen to prepare us for this event is a far more widespread disclosure of the truth.
 
@@ -989,7 +975,7 @@ In fact, certain groups fighting for humanity's future have been quite disappoin
 
 Hopefully this article will help to turn the tide. It doesn't matter if the viewership numbers aren't that high. It just needs to be out there before these events occur.
 
-**NEGATIVE ELITES ARE ALLOWED TO EXIST -- AS A MIRROR**
+### **NEGATIVE ELITES ARE ALLOWED TO EXIST - AS A MIRROR**
 
 "Third density" worlds like ours also have "elites" who manipulate and control us on vast scales.
 
@@ -997,7 +983,7 @@ This is ultimately allowed to occur by a loving universe. The elites hold up a p
 
 Though we have not yet had a vast, public meltdown of the elite, the process is well underway. What you do with this available knowledge is your choice.
 
-**DISCHARGING KARMA AND COSMIC RESCUE PLANS**
+### **DISCHARGING KARMA AND COSMIC RESCUE PLANS**
 
 Another thing these sequential catastrophes provides is a vehicle for discharging tremendous karma -- for those who need it.
 
@@ -1011,7 +997,7 @@ Some people will pop into this fourth-density earth, which will start out having
 
 Others will be rescued by various intelligent means, including being brought into vast Noah's Ark-type ships or relocated to areas inside the earth.
 
-**THE FOLLOW-UP ARTICLE IS COMING SOON**
+### **THE FOLLOW-UP ARTICLE IS COMING SOON**
 
 Technically I am supposed to be on vacation right now, not working like this. I am enjoying two weeks off -- or not entirely off -- in the Canadian Rockies.
 
@@ -1019,7 +1005,7 @@ That includes taking the time to make ridiculous poses for my [Facebook,](https:
 
 This shot was taken at a particularly tempting-looking boulder on the shore of Emerald Lake.
 
-![](/images/dw_canada_pose.jpg)
+![](/public/images/dw_canada_pose.jpg)
 
 However, a very critical meeting between our insider Corey Goode and the SSP Alliance is about to take place just an hour or two after I post this.
 
@@ -1033,21 +1019,21 @@ The insider operations are so sensitive and timely right now that the Alliance i
 
 As was the case in April, I hope to have the rest of this article emerge very soon, once we fully clarify what is safe to reveal at this time.
 
-**COME AND GET THE FULL SCOOP AT CONTACT IN THE DESERT!**
+### **COME AND GET THE FULL SCOOP AT CONTACT IN THE DESERT!**
 
-[![](/images/cid_dw_2016.jpg)](http://contactinthedesert.com/david-wilcock/)
+[![](/public/images/cid_dw_2016.jpg)](http://contactinthedesert.com/david-wilcock)
 
-[I will be discussing all of these topics -- Full Disclosure, the SSP Alliance and Ascension -- at the epic Contact in the Desert conference next weekend.](http://contactinthedesert.com/)
+[I will be discussing all of these topics -- Full Disclosure, the SSP Alliance and Ascension -- at the epic Contact in the Desert conference next weekend.](http://contactinthedesert.com)
 
-[You can click on this page to read descriptions of all six of the events I will be hosting at "The Woodstock of UFOs."](http://contactinthedesert.com/david-wilcock/)
+[You can click on this page to read descriptions of all six of the events I will be hosting at "The Woodstock of UFOs."](http://contactinthedesert.com/david-wilcock)
 
 Don't miss it! And I thank you for supporting our efforts by pre-ordering your copy of _The Ascension Mysteries_ today, if you haven't already done so.
 
-![](http://divinecosmos.com/images/1007%20Wilcock%20B.JPG)
+[![](/public/images/Wilcock-B.JPG)](http://www.amazon.com/gp/product/1101984074)
 
 [LINK TO AMAZON LISTING OF "THE ASCENSION MYSTERIES"](http://www.amazon.com/gp/product/1101984074)
 
-**LATEST EPISODES OF WISDOM TEACHINGS ARE ALL ABOUT IMMINENT DISCLOSURE**
+### **LATEST EPISODES OF WISDOM TEACHINGS ARE ALL ABOUT IMMINENT DISCLOSURE**
 
 Lastly, there is huge excitement from our audience thanks to the latest episodes of Wisdom Teachings on Gaia.
 
@@ -1059,11 +1045,7 @@ If you haven't already subscribed, you can see everything for a buck, and have f
 
 [That includes an astonishing 244 different videos I am featured in, each of a half hour or more in length.](http://click.linksynergy.com/fs-bin/click?id=mTckSPpGJyM&offerid=346926.10000843&type=3&subid=0)
 
-[Click on this link to get started and you will see the one month for 99 cents offer. If you continue, it's only 9.99 a month, and I do my best to make it well worth it.](http://click.linksynergy.com/fs-bin/click?id=mTckSPpGJyM&offerid=346926.10000843&type=3&subid=0)
-
-[![](/images/gaia_wisdom_teachings.jpg)](http://click.linksynergy.com/fs-bin/click?id=mTckSPpGJyM&offerid=346926.10000843&type=3&subid=0)
-
-**SNEAK PREVIEW OF DATA THAT WILL BE COVERED IN FAR MORE DETAIL**
+### **SNEAK PREVIEW OF DATA THAT WILL BE COVERED IN FAR MORE DETAIL**
 
 Lastly, if you would like to read a condensed version of some of the intel that will be featured in the next section, [click here for Corey Goode's synopsis.](http://spherebeingalliance.com/blog/latest-intel-and-update.html)
 
@@ -1074,3 +1056,5 @@ The spiritual experiences I have had on this trip, including yet another astonis
 I definitely feel that "productive solitude" is good for everyone -- to help change things up and come back into your life with a renewed perspective.
 
 I do my best to make sure that all of my creative works provide that sense of inspiration. Thank you for helping us out by spreading the word!
+
+Original link: [Divine Cosmos - Full Disclosure and Ascension: The War Has Gone Hot](http://divinecosmos.com/start-here/davids-blog/1200-full-disclosure-asc?showall=1&limitstart=)
