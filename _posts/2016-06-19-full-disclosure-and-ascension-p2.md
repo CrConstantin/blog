@@ -9,13 +9,15 @@ tags: aliens
 
 Independent insider sources and measurable real-world data confirm the war for Full Disclosure has gone "red hot"...
 
+![](/public/images/Chevron-battle-final.jpg)
+
 New triangular fighter craft allegedly made by Boeing have created a decisive tipping-point in the wars now taking place over Antarctica and elsewhere.
 
 We are now seeing the fulfillment of prophecies dating all the way back to the Bible and other ancient texts.
 
 This is a very exciting time and we can "expect the unexpected" as we move forward into the future.
 
-**REALITY IS MUCH DIFFERENT THAN WE THINK**
+### **REALITY IS MUCH DIFFERENT THAN WE THINK**
 
 For those who are paying attention, it is becoming increasingly clear that "reality" is just another story we have been told.
 
@@ -29,7 +31,7 @@ It is surprising how quickly most of us have settled back into the idea of thing
 
 We often feel these issues are far beyond our ability to influence as individuals. This is decidedly not the case.
 
-**THE BIGGER PICTURE**
+### **THE BIGGER PICTURE**
 
 Similarly, the UFO phenomenon has always been a mystery that we just can't quite fit into a box easily.
 
@@ -43,7 +45,7 @@ These people are still very much physical, flesh-and-blood beings -- and do appe
 
 They can also bring us into their time continuum so that their perception becomes the new "normal" for us once we go there.
 
-**PUSHING FOR FULL DISCLOSURE**
+### **PUSHING FOR FULL DISCLOSURE**
 
 If you have seen my TV shows, conferences, videos and books, then you have a good grasp of how far-reaching and ancient these mysteries really are.
 
@@ -59,7 +61,7 @@ For the first time, we have a full-disclosure overview of the hidden history of 
 
 [LINK TO AMAZON LISTING OF "THE ASCENSION MYSTERIES"](http://www.amazon.com/gp/product/1101984074)
 
-**UFO DISCLOSURE ALONE DOES NOT SOLVE THE MYSTERY**
+### **UFO DISCLOSURE ALONE DOES NOT SOLVE THE MYSTERY**
 
 Now let's assume that "it" actually happens. Some kind of official statement is made, revealing we are not alone in the universe.
 
@@ -69,7 +71,7 @@ However, even if we get a full disclosure of intelligent, technological civiliza
 
 We are still largely unaware of the spiritual reality that surrounds us and infuses our lives with purpose and meaning.
 
-**THE UFO AND SPIRITUAL REALITIES CO-MINGLE**
+### **THE UFO AND SPIRITUAL REALITIES CO-MINGLE**
 
 Very few can appreciate the complexity with which the ET / UFO phenomenon intersects with what we think of as spiritual reality.
 
@@ -81,7 +83,7 @@ These beings are working all around us. Certain air corridors have enough traffi
 
 I am told the most recent military night-vision gear -- so-called ["fourth generation"](http://www.nightvisionguys.com/night-vision-generations) -- may allow you to see a little more of what is going on in our skies.
 
-![](/images/fourth_gen_nv.jpg)
+![](/public/images/fourth_gen_nv.jpg)
 
 Since their technology is significantly more advanced than what we openly possess, the visitors are capable of remaining hidden. This is called "masking."
 
@@ -97,7 +99,7 @@ Thus, strange atmospheric phenomena can be seen in the case of open warfare -- a
 
 If such a flying craft was sufficiently damaged, it could then plunge to the earth, creating a wreckage site with high-tech debris and ET bodies.
 
-**THERE IS A WAR IN THE HEAVENS AND IT IS SERIOUSLY ESCALATING**
+### **THERE IS A WAR IN THE HEAVENS AND IT IS SERIOUSLY ESCALATING**
 
 Our "government" is very actively going around and cleaning up these messes, creating cover stories whenever this type of event occurs.
 
@@ -115,11 +117,7 @@ Though their ships can remain masked under normal conditions, their weapons fire
 
 So many shoot-downs are now occurring that there is great concern that an advanced technology could come crashing down in a major metropolitan area.
 
-![](/images/fireball-phoenix-arizona-video-photo-june-2-2016.jpg)
-
-_Phoenix, June 2nd, 2016: Obviously an Asteroid (LOL)_
-
-**ONE OF THE MORE RECENT SHOOT-DOWNS OCCURRED ON MAY 17TH**
+### **ONE OF THE MORE RECENT SHOOT-DOWNS OCCURRED ON MAY 17TH**
 
 Just over a month ago, on May 17th, 2016, a suspicious "meteor sighting" took place in the New England sky, centering around Maine.
 
@@ -127,7 +125,7 @@ It made a loud explosive noise as it flashed.
 
 It was so bright and anomalous that the Portland, Maine Police Department referred to it as a possible "alien spaceship."
 
-![](/images/new_england_fireball.jpg)
+![](/public/images/new_england_fireball.jpg)
 
 5/17: Bright Fireball Streaks Through New England Sky
 
@@ -151,7 +149,7 @@ The entire Northeast United States, and beyond, was lit up and physically shaken
 
 As you just read, it was so strange that the Portland Police Department joked that it may be an "alien spaceship" and hoped "the visitors are friendly."
 
-**COVER STORIES ARE BEING LINED UP**
+### **COVER STORIES ARE BEING LINED UP**
 
 Cover stories are already being lined up for a technological crash in an urban area in the event that it happens.
 
@@ -163,7 +161,7 @@ The Cabal is extremely concerned about this happening and how they will manage i
 
 This could actually be the tipping point that drives us directly into disclosure.
 
-[![](/images/598440-1920x1200-%5BDesktopNexus_com%5D.jpg)](https://space.desktopnexus.com/wallpaper/598440/)
+[![](/public/images/DesktopNexus_com_ 598440.jpg)](https://space.desktopnexus.com/wallpaper/598440/)
 
 **TWO WEEKS LATER: VERY STRANGE ZIG-ZAGGING "FIREBALL" OVER ARIZONA**
 
@@ -187,8 +185,6 @@ The official sources tried to say this incredible, zig-zagging mess in the sky w
 
 Did you hear this mysterious light in the sky? And **did you feel the rattling noise** this morning in Phoenix, Arizona?
 
-![](/images/10711170_G.jpg)
-
 6/2: Possible Meteor Streaks Over Arizona Sky
 
 [http://www.crossroadstoday.com/story/32124173/possible-meteor-streaks-across-arizona-sky](http://www.crossroadstoday.com/story/32124173/possible-meteor-streaks-across-arizona-sky)
@@ -205,8 +201,6 @@ Phoenix resident John Burgmeier said he heard **multiple booms** as the fireball
 
 People who missed the show woke up to see the squiggly trails it left behind.
 
-![](/images/10711169_G.jpg)
-
 6/2: NASA Says Asteroid Entered Atmosphere Over Arizona
 
 [http://www.abc15.com/news/region-phoenix-metro/central-phoenix/what-was-that-bright-light-streaks-across-sky](http://www.abc15.com/news/region-phoenix-metro/central-phoenix/what-was-that-bright-light-streaks-across-sky)
@@ -221,8 +215,6 @@ The first reports came in right around 4 a.m. from around the Valley and even in
 
 After dawn, a strange trail of cloud-like patterns was left in the sky.
 
-![](/images/fireball-phoenix-arizona-video-photo-june-2-2016-3.jpg)
-
 **[NASA estimates](http://www.nasa.gov/feature/fireball-lights-pre-dawn-sky-over-arizona) a small asteroid, approximately 10 feet in diameter** with a mass in the tens of tons, entered the atmosphere above Arizona just before 4 a.m.
 
 Reports place the object 57 miles above the Tonto National Forest, east of Payson. It was last seen 22 miles above the forest.
@@ -233,21 +225,17 @@ NASA believes there are meteorites scattered on the ground north of Tucson.
 
 **NASA is having difficulties obtaining data on the fireball because many cameras were saturated by the bright light.**
 
-![](/images/fireball-phoenix-arizona-video-photo-june-2-2016.jpg)
-
 _Hey Look, It's Harvey the Loop-Dee-Loo Asteroid. All He Needs is Love!_
 
 An "asteroid". Zig-zagging around in space like Lee Harvey Oswald's "Lone Gunman" bullet that killed Kennedy. Brighter than daylight.
 
 Riiiiight.
 
-**THIS IS NOT A FRICKIN' ASTEROID**
+### **THIS IS NOT A FRICKIN' ASTEROID**
 
 This clearly looks more like the smoke trail billowing out of a distressed, frantic craft than the aftermath of an incoming asteroid.
 
 If an asteroid breaks up in our atmosphere, it should fan out in a radial pattern from a common center, like a typical fireworks explosion.
-
-![](/images/Spider-Firework-Omiya-Japan.jpg)
 
 Then the shattered pieces would all fall downward thanks to the effects of gravity.
 
@@ -275,7 +263,7 @@ In the opening paragraph of an article revealing the "War Has Gone Red Hot", we 
 
 **Due to "masking" technology this war is mostly invisible to us, but there are traces of the battle that we can measure.**
 
-**OF COURSE IT IS ALL JUST A COINCIDENCE....**
+**OF COURSE IT IS ALL JUST A COINCIDENCE...**
 
 Just four days after we published that image and the teaser paragraph about the war in the heavens, we had the Phoenix incident on June 2nd.
 
@@ -285,7 +273,7 @@ I was very impressed to see the intel come true so soon after we leaked it -- th
 
 This majorly publicized event helped to confirm the veracity and the urgency of the information we were given.
 
-**FOUR DAYS LATER....**
+**FOUR DAYS LATER...**
 
 On June 6th, four days atfter Phoenix, another mysterious "fireball" sighting occurred over thirteen different American states, with very similar characteristics.
 
@@ -325,7 +313,7 @@ This occurred right while our intel said we should be expecting such sightings, 
 
 As we have said before, paid skeptics and perma-trolls overlook any and all compelling data of this type and just accuse us of having "no evidence."
 
-![](/images/dodo.jpg)
+![](/public/images/dodo.jpg)
 
 Enjoy their hatred a little bit longer while you still can. Savor the flavor. It will soon become extinct.
 
@@ -335,13 +323,9 @@ We are one "meteor" away from an event that could completely change the world fo
 
 This is only one of a variety of ways in which the teetering, groaning edifice of the Cabal is about to come thundering down to Earth.
 
-[**CLICK HERE TO CONTINUE TO SECTION TWO: UNDERGROUND BASES**](http://divinecosmos.com/start-here/davids-blog/1201-full-disclosure-asc-ii?showall=&start=1)
+## **SECTION TWO: UNDERGROUND BASES**
 
-![](http://divinecosmos.com/images/Chevron-battle-final_s.jpg)
-
-**SECTION TWO: UNDERGROUND BASES**
-
-**WE THINK WE ARE IT**
+### **WE THINK WE ARE IT**
 
 [Just like the people in Melanesia, who we discussed in Part One, we think "we are it." The skeptics are simply more adamant about it than others.](http://divinecosmos.com/start-here/davids-blog/1200-full-disclosure-asc)
 
@@ -369,7 +353,7 @@ Tremendous numbers of assumptions were made. All of them appeared to be perfectl
 
 From our perspective in the "civilized world," we can see that their beliefs were very, very far apart from the greater reality that was surrounding them.
 
-**WE ARE NO DIFFERENT**
+### **WE ARE NO DIFFERENT**
 
 Similarly, we think the "island continents" of Europe, Africa, Asia and the Americas are the only places on, in and around Earth where any people live.
 
@@ -395,7 +379,7 @@ He had a flip-book of 57 different types of human ETs that were operating in our
 
 They were jokingly referred to as the "Heinz 57," after the popular ketchup brand claiming to have manufactured 57 different varieties since 1869.
 
-![](/images/heinz_57.jpg)
+![](/public/images/heinz_57.jpg)
 
 The flipbook had detailed information about the types of craft they would fly, what they looked like, and other necessary characteristics he needed to know.
 
@@ -413,7 +397,7 @@ They have lots of comfortable space in different places than what we are accusto
 
 Their higher technology allows them to make use of areas we would normally consider to be inaccessible at this time.
 
-**ANTARCTICA IS NOT A WASTELAND**
+### **ANTARCTICA IS NOT A WASTELAND**
 
 There are a series of large, habitable regions underneath the ice of Antarctica that are host to certain groups, including those of the Cabal.
 
@@ -423,7 +407,7 @@ Natural ice caves are created by the heat of sub-surface volcanic activity. Ther
 
 Here is an image commissioned by Corey Goode of one of the Cabal's own bases underneath the Antarctic ice, complete with buildings and exotic craft.
 
-![](/images/Antarctica-Under-the-Ice-Final-72px.jpg)
+![](/public/images/Antarctica-Under-the-Ice-Final-72px.jpg)
 
 Corey Goode recently provided us with a map of six different naturally volcanic areas under Antarctica that are home to secret Cabal bases.
 
@@ -431,7 +415,7 @@ Each red circle corresponds to an area that has been developed and has people li
 
 These areas also show up on heat maps of Antarctica as visible volcanic hot-spots.
 
-![](/images/Antarctic_Under_Ice_Industrial_Cities-2-1024x623.jpg)
+![](/public/images/Antarctic_Under_Ice_Industrial_Cities-2-1024x623.jpg)
 
 Access to Antartica is strictly controlled, meaning we cannot just go and check it out for ourselves.
 
@@ -443,7 +427,7 @@ Their combined landmass is quite significant, dwarfing the size of either of the
 
 They are almost vertical, on a slight diagonal angle, and run from the top of the continent to the bottom -- creating a vast amount of livable space.
 
-**DRACO BASES IN ANTARCTICA**
+### **DRACO BASES IN ANTARCTICA**
 
 Both of these enormous strips of land are under the exclusive control of reptilian ETs known as the Draco.
 
@@ -461,7 +445,7 @@ We are protected from them by benevolent ETs that will never allow them to do mo
 
 Furthermore, their time here on Earth is very likely about to come to an end.
 
-**TOMPKINS VALIDATES INTEL**
+### **TOMPKINS VALIDATES INTEL**
 
 According to Tompkins, the Draco cut a deal with the Germans before World War II, and offered the smaller areas in the above image as a concession prize.
 
@@ -471,7 +455,7 @@ The plan was to create a "Dark Fleet" of ships and personnel that could go out a
 
 The Draco would be leading the effort, and needed the industrial might of the Germans to help produce a sufficiently large army to make it possible.
 
-**QUITE AMAZING THAT TOMPKINS IS STILL AROUND, AND VALIDATES EVERYTHING**
+### **QUITE AMAZING THAT TOMPKINS IS STILL AROUND, AND VALIDATES EVERYTHING**
 
 Again, I acknowledge how bizarre this sounds to most people, but there is a staggering amount of interconnecting evidence that suggests it is true.
 
@@ -489,9 +473,9 @@ I have now had many hours of conversation with him on the phone, exploring this 
 
 For people who really know this world, all we are doing here is giving a history lesson and updating it with the things that are happening now.
 
-![](/images/Antarctica-Under-the-Ice-Final-72px.jpg)
+![](/public/images/Antarctica-Under-the-Ice-Final-72px.jpg)
 
-**THE 'ANSHAR' HAVE A SIGNIFICANTLY ALTERED PERCEPTION OF TIME**
+### **THE 'ANSHAR' HAVE A SIGNIFICANTLY ALTERED PERCEPTION OF TIME**
 
 The white craft you see in the middle of the under-ice cave image is what we are calling a "bus," built by another humanlike group living inside the earth.
 
@@ -515,13 +499,9 @@ They routinely maintain telepathic contact with many of us, usually subconscious
 
 They do appear to have a key role in helping us go through this epic transition that is heading our way.
 
-[**CLICK HERE TO CONTINUE TO SECTION THREE: COREY GOODE'S INTEL**](http://divinecosmos.com/start-here/davids-blog/1201-full-disclosure-asc-ii?showall=&start=2)
+## **SECTION THREE: COREY GOODE'S INTEL**
 
-![](http://divinecosmos.com/images/Chevron-battle-final_s.jpg)
-
-**SECTION THREE: COREY GOODE'S INTEL**
-
-**IT KEEPS GETTING STRANGER AND STRANGER, BUT IT IS TRUE**
+### **IT KEEPS GETTING STRANGER AND STRANGER, BUT IT IS TRUE**
 
 The story of what Corey Goode has experienced since he began debriefing me in October 2014 keeps getting stranger and stranger as time goes on.
 
@@ -539,7 +519,7 @@ I have not yet been taken into this world -- at least not in any form where I am
 
 However, the data from various insiders is so interconnected and fascinating that I have no doubt in my mind that Corey is telling us the truth.
 
-**THE ARRIVAL OF GIANT SPHERES**
+### **THE ARRIVAL OF GIANT SPHERES**
 
 Pete Peterson revealed that a Neptune-sized object called "The Seeker" came into our solar system in the 1980s, terrifying the Reagan Administration.
 
@@ -557,7 +537,7 @@ Now, they could be as large as Neptune or Jupiter in size. Again they assumed va
 
 Corey and I presented many visible and stunning images of these planet-sized objects in our public debut at the Conscious Life Expo this past February.
 
-**IT OBVIOUSLY SEEMED RELATED TO ANTICIPATED SOLAR EVENTS**
+### **IT OBVIOUSLY SEEMED RELATED TO ANTICIPATED SOLAR EVENTS**
 
 The spheres appeared to be intended to help manage the much-anticipated solar events and consciousness shifts expected to occur during this timeframe.
 
@@ -571,13 +551,13 @@ I took copious notes during each call with Corey in the early months, typing at 
 
 By late February of 2015, four months after we started, I had absorbed the majority of knowledge Corey had to share.
 
-**THE WAR HAD ALREADY GOTTEN INTENSE**
+### **THE WAR HAD ALREADY GOTTEN INTENSE**
 
 By this point, the war within the SSP -- between the Cabal factions, the Alliance factions and various ETs -- had gotten very intense.
 
 The Cabal tried to fire on a giant and heretofore-unknown spherical craft parked near the Moon in December 2014.
 
-![](/images/UFO-Seen-Firing-Red-Beam-Of-Light-At-Earth-12-5-14-300x218.png)
+![](/public/images/UFO-Seen-Firing-Red-Beam-Of-Light-At-Earth-12-5-14-300x218.png)
 
 This created visible results that were recorded by the cameras on the International Space Station as a red laser-like beam striking a spherical area.
 
@@ -587,7 +567,7 @@ The "official" NASA explanation for this event was that they fired a laser to "c
 
 What better way to "Fire the Laser" than to use the "Very Large Telescope?"
 
-![](/images/fire_the_laser.jpg)
+![](/public/images/fire_the_laser.jpg)
 
 12/16/14: NASA Says "Fire the Laser"
 
@@ -601,7 +581,7 @@ This was done to generate an artificial star in the sky.
 
 Per Matthew Abrahamson, mission manager for Optical Payload for Lasercomm Science (OPALS) at NASA's Jet Propulsion Laboratory, the mysterious red light was created by a novel laser communications system.
 
-**THE REAL STORY IS MUCH MORE INTERESTING THAN THE COVER-UP**
+### **THE REAL STORY IS MUCH MORE INTERESTING THAN THE COVER-UP**
 
 Just to be clear, I had three different credible insider sources besides Corey independently confirm that this beam was an attempted kill-shot against a sphere.
 
@@ -619,7 +599,7 @@ I finally created a grand overview of all my insider data that has come in over 
 
 Early next month I will dictate the audio book, and then I will finally be done with production on this epic adventure.
 
-**WILDLY UNEXPECTED TURNS OF EVENTS**
+### **WILDLY UNEXPECTED TURNS OF EVENTS**
 
 The "Outer Barrier" and no-fly zone around Earth were both stunning, game-changer-level events for all ETs living and working in our solar system.
 
@@ -635,7 +615,7 @@ This was the first time they had ever communicated with the SSP -- either throug
 
 Corey was taken up there by a very unusual means, involving a small orb of blue light that turned into a sphere that engulfed him and brought him into space.
 
-**THE BLUE AVIANS AND LT. COL. GONZALES**
+### **THE BLUE AVIANS AND LT. COL. GONZALES**
 
 In this initial, landmark meeting, Corey also was re-acquainted with ETs he had experienced contact from before, known as the Blue Avians.
 
@@ -653,7 +633,7 @@ It has been awkward for both of us, to say the least, to be given such an outrag
 
 However, the daily realities this situation has thrown us into are as serious as a heart attack, requiring constant vigilance to remain safe and effective.
 
-**THIS WAS TAKEN SERIOUSLY ENOUGH TO BECOME A WEEKLY HALF-HOUR SHOW**
+### **THIS WAS TAKEN SERIOUSLY ENOUGH TO BECOME A WEEKLY HALF-HOUR SHOW**
 
 It seems impossible that such elaborately complex secrets could be kept hidden from us.
 
@@ -671,7 +651,7 @@ We have now generated an entire year's worth of half-hour weekly episodes featur
 
 Our show just blew into the ozone these past two weeks with episodes featuring William Henry.
 
-[![](/images/121691_cd_s5e3_blue_avians_and_spheres_in_ancient_art_cvr.jpg)](http://click.linksynergy.com/fs-bin/click?id=mTckSPpGJyM&offerid=346926.10000843&type=3&subid=0)
+[![](/public/images/121691_cd_s5e3_blue_avians_and_spheres_in_ancient_art_cvr.jpg)](http://click.linksynergy.com/fs-bin/click?id=mTckSPpGJyM&offerid=346926.10000843&type=3&subid=0)
 
 Multiple pieces of tangible evidence were presented showing the [presence of "Blue Avians" and sphere beings in ancient artwork worldwide.](http://click.linksynergy.com/fs-bin/click?id=mTckSPpGJyM&offerid=346926.10000843&type=3&subid=0)
 
@@ -691,7 +671,7 @@ I use Roku and have never experienced more than very occasional and very brief p
 
 The company is going through a very significant growth phase at the moment, which will soon lead to noticeable increases in production value.
 
-**LOTS OF INTENSITY**
+### **LOTS OF INTENSITY**
 
 Corey and I taped six hours of video at my home beginning on March 17, 2015.
 
@@ -707,7 +687,7 @@ It was quite a massive effort to go from that initial visit to a fully-realized 
 
 Each taping Corey and I have done has been fraught with difficulty, threats and bizarre interference -- but we have continued to persist in our efforts.
 
-**INNER EARTH BEINGS**
+### **INNER EARTH BEINGS**
 
 The scope of Corey's experiences widened even more when he met an alliance of human ETs living inside the Earth, beginning on September 3, 2015.
 
@@ -723,7 +703,7 @@ We are also now routinely working with artists to get as many illustrations as p
 
 If all of this turns out to be true, and widely disclosed as we believe it will, then these episodes will provide valuable historical context when the time comes.
 
-**THEY WORKED OPENLY AMONG US UP UNTIL CIRCA 800 AD**
+### **THEY WORKED OPENLY AMONG US UP UNTIL CIRCA 800 AD**
 
 One fascinating new piece of intel that Goode learned from these people is directly relevant to everything I have said on Ancient Aliens.
 
@@ -737,7 +717,7 @@ This is exactly what we observed happening in our own 20th century history with 
 
 No religion is exempt from this problem. We are not picking on Islam. The same story kept repeating over and over again.
 
-**A GROUP DECISION TO GO INTO HIDING**
+### **A GROUP DECISION TO GO INTO HIDING**
 
 All of the advanced civilizations operating around us, both good and evil, made a group decision to withdraw from view at "the last minute".
 
@@ -751,7 +731,7 @@ They also had to stop building giant stone structures all over the planet, which
 
 In so doing, they were also adhering to certain laws that preserve our free will -- akin to the Prime Directive in Star Trek.
 
-**THEY ARE NOW VOTING ON REVERSING THE MOHAMMED ACCORDS**
+### **THEY ARE NOW VOTING ON REVERSING THE MOHAMMED ACCORDS**
 
 One of the most bizarre pieces of new intel we have gotten concerns the very recent efforts to end the Mohammed Treaty.
 
@@ -763,7 +743,7 @@ We heard this vote was going to take place earlier this year. And as you may hav
 
 Nonetheless, our representatives from these inner earth groups seem confident that this is not going to hold back Disclosure for much longer.
 
-**THERE IS MUCH MORE TO SAY**
+### **THERE IS MUCH MORE TO SAY**
 
 As you can see, this is a very complex story, and I still haven't gotten through more than half of all the new intel I was asked to pass along.
 
@@ -779,7 +759,7 @@ I look forward to continuing the narrative in the near future, and have enough d
 
 As always, I thank you for your support.
 
-**IT'S NOT EASY**
+### **IT'S NOT EASY**
 
 Corey has had a really rough time on several levels, including financially, and if you are so inclined, [donations at his website are greatly needed now.](http://www.spherebeingalliance.com)
 
@@ -787,7 +767,7 @@ He has gotten hit with a raft of unanticipated expenses, obviously part of a coo
 
 I will be getting into far more detail about the threats and abuse that has occurred for both of us in the next update, although he has suffered far more.
 
-![](/images/Military-Abduction-craft-chemical-interrogation-low-res.jpg)
+![](/public/images/Military-Abduction-craft-chemical-interrogation-low-res.jpg)
 
 We both got into a lot of trouble with the Alliance for not having done more to release critical intel at certain key moments.
 
@@ -799,7 +779,7 @@ I asked the SSP Alliance to bring me up there for abuse and torture as an "under
 
 The reason apparently is that the Blue Avians are preventing this from happening, since my contact with this world is not yet "authorized" at this time.
 
-**IT SEEMS TO HAVE ENDED**
+### **IT SEEMS TO HAVE ENDED**
 
 Thankfully, before what would have been Corey's thirteenth session with a guy we're calling "The Wrangler," he was spared from further involvement.
 
@@ -817,13 +797,9 @@ If this all works out the way it looks like it will, we have quite an awesome fu
 
 All of these events seem to be last-minute buildups to some epic changes in society that will affect all of us in truly profound ways.
 
-**[CLICK HERE FOR BONUS UPDATE, SECTION FOUR: THE WAR](http://divinecosmos.com/start-here/davids-blog/1201-full-disclosure-asc-ii?showall=&start=3)**
+## **SECTION FOUR: THE WAR**
 
-![](http://divinecosmos.com/images/Chevron-battle-final_s.jpg)
-
-**SECTION FOUR: THE WAR**
-
-**UPDATE, NEXT MORNING: SOME NEEDED CLARIFICATIONS**
+### **UPDATE, NEXT MORNING: SOME NEEDED CLARIFICATIONS**
 
 Thanks to certain comments I read after moderators approved them, I can see there is a bit of confusion since I ran out of time last night.
 
@@ -841,7 +817,7 @@ This caused the inner-earth civilizations to pool their resources together and f
 
 Massive numbers of Cabal assets and personnel are being transferred down to Antarctica and in some cases South America, where large bases exist.
 
-**ATTEMPTED EVACUATION WAS STOPPED**
+### **ATTEMPTED EVACUATION WAS STOPPED**
 
 The ETs have told us that "we" are responsible for defeating the Saurians. It cannot be done for us by outside ET groups. It is our responsibility.
 
@@ -859,7 +835,7 @@ This change is very thoroughly examined, in unprecedented detail, in _The Ascens
 
 The vast majority of the Draco will be defeated when this event happens. They know they cannot be here for it.
 
-**THE ARRIVAL OF THE "CHEVRONS"**
+### **THE ARRIVAL OF THE "CHEVRONS"**
 
 The Draco are now trapped in here by the Outer Barrier.
 
@@ -875,7 +851,7 @@ This is the critical intel I was supposed to have disclosed at the end of April,
 
 The chevrons were extremely effective at shooting down the Draco craft. This has been a tremendous game-changing event in this war.
 
-**THE CHEVRONS WERE A MYSTERY**
+### **THE CHEVRONS WERE A MYSTERY**
 
 Corey's people in the SSP Alliance did not know who built the "chevrons". It appeared to be one of the Earth-based "lower level SSP" groups.
 
@@ -891,7 +867,7 @@ This epic defeat and cornering of the Draco has huge ramifications for the futur
 
 Somehow the MIC managed to make a huge quantum leap in their level of technology, sufficient to take out the Draco.
 
-**PETERSON INDEPENDENTLY CONFIRMED**
+### **PETERSON INDEPENDENTLY CONFIRMED**
 
 Peterson knew all about these triangle-shaped craft when I discussed it with him on the phone. The MIC are very proud of their new weapon.
 
@@ -905,7 +881,7 @@ This group is completely self-sufficient, never needs money or supplies of any k
 
 The craft piloted by the earth-based MIC were nowhere near as advanced as those of the ICC or Dark Fleet, but all of that has changed now.
 
-**DETAILS ON THE NEW TOYS**
+### **DETAILS ON THE NEW TOYS**
 
 These new MIC "fighter jets" were apparently created in two places by Boeing and possibly other contractors.
 
@@ -921,7 +897,7 @@ They are powered by a mercury centrifuge that generates antigravity and propulsi
 
 These capabilities did not exist for the Earth-based MIC space program groups before, running through the DIA and other such organizations.
 
-**MASSIVE EXODUS TO ANTARCTICA CONFIRMED**
+### **MASSIVE EXODUS TO ANTARCTICA CONFIRMED**
 
 Pete confirmed there was a shooting war over Antarctica, and that massive amounts of Cabal assets are being transferred there now.
 
@@ -939,9 +915,9 @@ This next illustration is based on Corey's eyewitness testimony of seeing these 
 
 The craft at the bottom are the gigantic "supertankers" that the Cabal is using to transfer all their assets to their last possible safety zone on Earth.
 
-![](/images/Ice-Archway-Final-low-res-1024x794.jpg)
+![](/public/images/Ice-Archway-Final-low-res.jpg)
 
-**PETERSON CONFIRMS UFO CRASHES**
+### **PETERSON CONFIRMS UFO CRASHES**
 
 Peterson's own briefings also confirmed that there have been four or five epic UFO shoot-downs recently.
 
@@ -949,7 +925,7 @@ The Cabal is still scrambling to cover them up. In some cases, a C5 Galaxy is im
 
 As soon as they land at the nearest available area, the trucks come rushing out and shut down the entire area with a cover story.
 
-**SPHERES WITH BLACK PORTHOLES AROUND THE EQUATOR**
+### **SPHERES WITH BLACK PORTHOLES AROUND THE EQUATOR**
 
 Another unexpected surprise development in this war has been the arrival of reddish-white-glowing spheres with portholes along the equator.
 
@@ -957,7 +933,7 @@ These ships also were of unknown origin and have gotten directly involved in sho
 
 As amazing as it was for me to hear this, Pete independently confirmed this detail as well -- without even knowing what I had heard or who it came from.
 
-![](/images/Spherical-craft-antarctica-final-low-res.jpg)
+![](/public/images/Spherical-craft-antarctica-final-low-res.jpg)
 
 Pete said that he had personally witnessed spheres of this sort in hangars, dating back to his time in the 1980s.
 
@@ -973,7 +949,7 @@ The [classic whistleblower Peter David Beter](http://www.peterdavidbeter.com) di
 
 This therefore suggests that the Russians and the MIC have now teamed up against the Draco and the Cabal, which is a very significant development.
 
-**UNDERGROUND BASES ALSO BEING WIPED OUT**
+### **UNDERGROUND BASES ALSO BEING WIPED OUT**
 
 In addition to the battle we are seeing in the skies, and the possibility that these "fireball" events are UFO crashes, battles are occurring underground.
 
@@ -991,7 +967,7 @@ Corey got pulled out for his most recent meeting with the Blue Avians at the exa
 
 It is entirely possible that this was deliberately timed with yet another underground base being wiped out.
 
-**THINGS COULD GET PRETTY WILD**
+### **THINGS COULD GET PRETTY WILD**
 
 This war very likely now includes craft from warring factions physically breaching the boundaries of their enemies' underground cities.
 
@@ -1003,7 +979,7 @@ This includes huge "tankers" that are in low-earth orbit, beaming out frequencie
 
 There are other systems both inside and off of the earth that are causing this scrambling effect to occur as well.
 
-**SHOOT DOWN THE TANKERS!**
+### **SHOOT DOWN THE TANKERS!**
 
 With technology like the new "chevron" craft, the MIC / Earth Alliance could now shoot down the tankers and destroy the Draco mind-control grid.
 
@@ -1019,7 +995,7 @@ There is deep concern about doing this, even though they now have all the tech t
 
 Yes, some people will freak out, but this will be balanced by the positive benefits others will have, which will enable them to calm everybody down.
 
-**WHO IS THE WRANGLER? LET'S START WITH THE LOWER-LEVEL SSP ABDUCTIONS**
+### **WHO IS THE WRANGLER? LET'S START WITH THE LOWER-LEVEL SSP ABDUCTIONS**
 
 There was confusion in the comments section about who the Wrangler was.
 
@@ -1035,7 +1011,7 @@ They started taking blood and skin scrapings as well as hair samples. They were 
 
 Much to their surprise, the trace elements proved that Corey had indeed been to these places. He also knew things he couldn't have known otherwise.
 
-**LOOKING FOR PROGRAMS**
+### **LOOKING FOR PROGRAMS**
 
 Corey was strapped to a flight-type chair and given massive doses of drugs that made him unable to avoid telling the truth.
 
@@ -1045,7 +1021,7 @@ The official was trying to see if these words could set off any mind-control tri
 
 After each word they would check off items on a list, saying no he is not this, no he is not that. They were very surprised that he didn't fit into anything.
 
-**NOT AT ALL AFFECTED BY THE CRAFT**
+### **NOT AT ALL AFFECTED BY THE CRAFT**
 
 They were also taken aback by Corey's demeanor. He was not freaked out by the inside of the craft.
 
@@ -1055,7 +1031,7 @@ There was a vibrating hum or shake to the vehicle as it started to move and a sl
 
 Corey commented on that, and they looked at each other shocked. Corey told them it is an "old" model.
 
-**TWO OR THREE OFFICIALS ENCOURAGING AMNESIA**
+### **TWO OR THREE OFFICIALS ENCOURAGING AMNESIA**
 
 At times there were two and at times there were three personnel debriefing Corey to get actionable intel for the Cabal.
 
@@ -1065,7 +1041,7 @@ They said this is a "level (something) anesthesia. He won’t remember anything.
 
 After each step, they would tell Corey “You will forget.”
 
-**OUTING THREE SSP ALLIANCE INSIDERS**
+### **OUTING THREE SSP ALLIANCE INSIDERS**
 
 Corey did forget one of the most significant steps that had happened until it was later brought to his attention.
 
@@ -1085,7 +1061,7 @@ Remember -- the SSP Alliance members are all known to the Cabal portion of the S
 
 This event did cause significant damage to the SSP, and effectively fractured the trust and good faith with Gonzales, who is now in hiding.
 
-**AGGRAVATED HARASSMENT AT HOME**
+### **AGGRAVATED HARASSMENT AT HOME**
 
 Corey was having Chinook helicopters fly over his house and put green lasers on his chest, as if he was about to be shot.
 
@@ -1101,7 +1077,7 @@ People were also walking by his house, wearing black and peering in.
 
 The effects that these events have had on his family have been very stressful, to say the least. This is not just a story on the internet. It is very real.
 
-**COVER STORIES WERE PUSHED ON COREY DURING THE INTERROGATION**
+### **COVER STORIES WERE PUSHED ON COREY DURING THE INTERROGATION**
 
 Corey was picked up, questioned and drugged several times by these people.
 
@@ -1113,7 +1089,7 @@ They would keep pushing these ideas on him forcefuly in between questioning.
 
 They were trying to get intel out of him and create disinformation for the rest of us as well.
 
-**PARTIAL DISCLOSURE**
+### **PARTIAL DISCLOSURE**
 
 The "lower-level SSP" got very angry that Corey was leaking intel about their plans for an open, public "Partial Disclosure".
 
@@ -1129,7 +1105,7 @@ We did not listen to the death threats. We outed their plans in a very major way
 
 The Alliance groups have since concluded that the partial disclosure scenario is impossible to achieve.
 
-**I DID NOT REALIZE WE HAD SUCH AN IMPORTANT ROLE**
+### **I DID NOT REALIZE WE HAD SUCH AN IMPORTANT ROLE**
 
 Much of the intel I just shared with you had gotten embargoed from public release due to both Corey and me being thrown off by a variety of distractions.
 
@@ -1147,7 +1123,7 @@ Once Corey inadvertently outed Gonzales, a critical element of communication had
 
 Had I known that these articles were so significant, I would have moved Heaven and Earth to ensure that I still got this information out there.
 
-**GONZALES HAS GONE INTO A HEALING CENTER**
+### **GONZALES HAS GONE INTO A HEALING CENTER**
 
 It was very rough for Corey to have Gonzales, his only real friend "on the inside," to turn on him. 
 
@@ -1167,7 +1143,7 @@ The whole climate is so deadly now that no one from the SSP Alliacne dares try t
 
 Corey is still able to do so because of positive karma authorizing his safety. Nonetheless, the "karmic discharge" required has been quite rough.
 
-**SO THEN WHO IS THE WRANGLER?**
+### **SO THEN WHO IS THE WRANGLER?**
 
 The Wrangler is a new character who Corey first saw the same time he sat across a metal table from Gonzales, in shackles, and realized they now hated him.
 
@@ -1181,7 +1157,7 @@ Corey was brought up a whopping twelve different times and was aggressively verb
 
 Tragically, I did not hear about this and really understand it, or what I could have done to stop it, until I met up with Corey at Contact in the Desert.
 
-**WHAT WAS THE PLAN?**
+### **WHAT WAS THE PLAN?**
 
 The Wrangler told Corey that he had destroyed a critical point of communication in Gonzales, and needed to make up for it.
 
@@ -1199,7 +1175,7 @@ I had actually recommended he do it, because if the Alliance needs it and he is 
 
 Corey decided on his own that he could not take the job. We were supposed to tell the truth, all the truth, and he did not want to respond to blackmail.
 
-**PART ONE ONLY GOT ME IN EVEN MORE TROUBLE**
+### **PART ONE ONLY GOT ME IN EVEN MORE TROUBLE**
 
 On Sunday, June 12th, Corey was about to go see the Wrangler and tell him he was refusing the job offer.
 
@@ -1211,7 +1187,7 @@ I only realized what was going on at the very tail end of my time in Canada, and
 
 I scrambled like mad to get something online in the immediate hours before Corey was going to be brought up to see the Wrangler again.
 
-**THE WRANGLER WAS NOT AT ALL HAPPY**
+### **THE WRANGLER WAS NOT AT ALL HAPPY**
 
 The Wrangler saw what I wrote in Part One, since they can read everything that goes online in any form.
 
@@ -1225,7 +1201,7 @@ Yet, once I got back from Canada, I had two days to prepare for a major conferen
 
 Corey was going to this event as well.
 
-**THE JUNE 2ND MEETING**
+### **THE JUNE 2ND MEETING**
 
 We met up on Thursday, June 2nd at the house I rented in Joshua Tree.
 
@@ -1243,7 +1219,7 @@ I realized that I had not wanted to do this job because people were seeing me as
 
 Now I see that I am not a savior, I am not special, I am just one of many people at different levels helping us move through this transition.
 
-**MAJOR BREAKTHROUGHS THEN OCCURRED**
+### **MAJOR BREAKTHROUGHS THEN OCCURRED**
 
 After getting this briefing, Corey admitted he was surprised at how well I took all of this very critical information in.
 
@@ -1261,7 +1237,7 @@ Corey went up on stage with me more than once, but didn't say much. He was still
 
 He also told me that disclosing the intel on stage was not enough. It needed to be out in writing. And we weren't there yet.
 
-**AN UNEXPECTED MEETING WITH THE BLUE AVIANS**
+### **AN UNEXPECTED MEETING WITH THE BLUE AVIANS**
 
 Corey was due to meet the Wrangler again on Sunday, June 12th.
 
@@ -1275,7 +1251,7 @@ Then, quite unexpectedly, the old blue sphere showed up and picked him up by the
 
 Corey had been mostly meeting with the people of the inner earth or the Wrangler up until then, so this was quite unexpected.
 
-**LOTS OF INTERESTING NEW INTEL**
+### **LOTS OF INTERESTING NEW INTEL**
 
 Corey was brought up to the usual location for the Blue Avians. He is standing inside a sphere and sees the stars all around him.
 
@@ -1287,7 +1263,7 @@ These are normally cloaked and invisible to our own people, as well as the SSP, 
 
 They are all arrayed in a vast gridlike pattern throughout our solar system.
 
-**ENERGETIC DISCHARGES**
+### **ENERGETIC DISCHARGES**
 
 The first thing Corey noticed was that the spheres were far more active than usual.
 
@@ -1301,13 +1277,13 @@ One visible sign of these epic changes was in what NASA called a "Monster Hole i
 
 [http://www.express.co.uk/news/science/674234/Is-the-sun-DISINTEGRATING-NASA-spots-monster-hole-open-up-on-our-star](http://www.express.co.uk/news/science/674234/Is-the-sun-DISINTEGRATING-NASA-spots-monster-hole-open-up-on-our-star)
 
-![](/images/sun_massive_hole.jpg)
+![](/public/images/sun_massive_hole.jpg)
 
 In short, this "monster hole" is another sign of the ever-increasing pressure buildup leading to this mega-event.
 
 The spheres are dissipating the energy so nothing happens until our collective free will authorizes the change.
 
-**NO MORE VISITS WITH THE WRANGLER**
+### **NO MORE VISITS WITH THE WRANGLER**
 
 Corey was also told in this meeting that he wasn’t going to be seeing the Wrangler anymore.
 
@@ -1321,7 +1297,7 @@ I would rather have been tortured myself than see Corey go through it, knowing h
 
 That has been a very, very difficult reality for me to integrate, but I am dealing with it by writing all this now as precious seconds tick away before I must go.
 
-**A RAPID VIBRATIONAL INCREASE**
+### **A RAPID VIBRATIONAL INCREASE**
 
 The Blue Avians also told Corey that Gonzales hasn’t been ready to accept communication from them yet. He is still going through healing.
 
@@ -1335,7 +1311,7 @@ We were told that many people are going to start losing it, demonstrating end-ti
 
 This is also affecting the SSP Alliance, causing them to become rash as they panic about the transitions we are going through.
 
-**THIS WILL REACH A CRESCENDO**
+### **THIS WILL REACH A CRESCENDO**
 
 Furthermore, we were told that these energetic changes are soon going to reach a crescendo. 
 
@@ -1351,7 +1327,7 @@ This could include the open appearance of UFOs, a solar flash, and the resulting
 
 I asked Corey if we would develop telekinesis or actually experience Ascension, but this was not mentioned in his information-sharing.
 
-**COREY ALSO HAD TO PASS A MESSAGE TO THE ANSHAR**
+### **COREY ALSO HAD TO PASS A MESSAGE TO THE ANSHAR**
 
 In this same meeting, Corey was asked to pass intel to the inner-earth beings known as the Anshar.
 
@@ -1367,7 +1343,7 @@ The topic wasn’t at all closed. Ending the Mohammed Accords was merely a first
 
 Kaaree and her people already knew the Draco would never come forward for that particular meeting.
 
-**WOW... OK... I GOT IT OUT!**
+### **WOW... OK... I GOT IT OUT!**
 
 Somehow I still manage to have a half hour to pack and prepare for my flight to Colorado, and have added all of this data in as a major new section.
 
@@ -1385,7 +1361,7 @@ That's all I have time to do right now. Hopefully everyone will be less pissed o
 
 Thank you again for all your support. I don't even know if I have enough time to play some guitar now....
 
-**IN-FLIGHT MINI-UPDATE: 3:24 PM, SUNDAY 6/19**
+### **IN-FLIGHT MINI-UPDATE: 3:24 PM, SUNDAY 6/19**
 
 I went ahead and bought the in-flight wi-fi so I could go ahead and write this mini-update, and fix a few small mistakes I saw in the text.
 
@@ -1399,9 +1375,9 @@ I photographed it and will upload it here once I land. Otherwise I have to pay t
 
 Once I came in here to do the edits, one of the recent articles also had a triple-digit repeating pattern, 777, in the hit counter as 67771:
 
-![](/images/67771.jpg)
+![](/public/images/67771.jpg)
 
-**I UNDERSTAND THIS IS GOING TO BE HARD FOR SOME PEOPLE**
+### **I UNDERSTAND THIS IS GOING TO BE HARD FOR SOME PEOPLE**
 
 The things that have happened involving Corey and me, as well as others in this big game, invariably lead to shouting from the rooftops.
 
@@ -1411,7 +1387,7 @@ You do not have authorization to come into this space and verbally abuse us. The
 
 I undoubtedly would not have written this much, this quickly if the pressure being put upon us were not so intense right now.
 
-**LET'S EXPLAIN WHY IT HAS TO BE THIS WAY**
+### **LET'S EXPLAIN WHY IT HAS TO BE THIS WAY**
 
 "But you have no PROOF! You have no EVIDENCE!"
 
@@ -1427,7 +1403,7 @@ The people in the SSP Alliance themselves are very divided on what may or may no
 
 Tompkins knows about the prophecies of the flash and says there are as many different interpretations as there are people.
 
-**YOU GET SOME COMPELLING CLUES, BUT NOT THE FULL DISCLOSURE... YET**
+### **YOU GET SOME COMPELLING CLUES, BUT NOT THE FULL DISCLOSURE... YET**
 
 There will indeed be a time that we get Full Disclosure. Once it arrives, the spiritual value of hearing and accepting the truth goes way down.
 
@@ -1443,7 +1419,7 @@ If someone is unfamiliar with any of the reference materials, or my 20-year hist
 
 I even made those caveats several times throughout this article.
 
-**A CANDLE IN THE DARKNESS**
+### **A CANDLE IN THE DARKNESS**
 
 If you read sacred texts like the Bible, it clearly states that most people will doubt that anything is going to happen right up until the moment the flash occurs.
 
