@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Disclosure"
-date:  2016-06-11 12:00
+date:  2016-06-20 12:00
 author: Cristi Constantin
 categories: archive
 tags: aliens
@@ -157,9 +157,10 @@ Link: [An advanced alien civilization DID exist before us: Scientists update pre
 New York Times scrie articolul: "[Yes, There Have Been Aliens](http://www.nytimes.com/2016/06/12/opinion/sunday/yes-there-have-been-aliens.html)"
 Pe scurt, se confirma ca aproape toate stelele au in jurul lor cel putin o planeta si ca 1 din 5 planete se afla in zona perfecta pentru dezvoltarea vietii.<br />
 Se considera ca o civilizatie tehnologic avansata ar fi posibila pentru mai mult de 1 din 10 miliarde de planete. In acest caz, considerand cele cam 10 miliarde galaxii pe care le putem observa, fiecare cu cate 100 de miliarde de stele, de la formarea universului acum 13 miliarde de ani si pana in prezent, ar fi trebuit sa apara cel putin 1 trilion de civilitatii...<br />
-Oricat de sceptic ai fi, cititorule, nu poti contrazice asemenea argumente stiintifice.
 
 <hr style="display:block;border-width:1px;" />
+
+Oricat de sceptic ai fi, cititorule, nu poti contrazice asemenea argumente stiintifice.
 
 Pregateste-te sa auzi tot mai multe nebunii despre viata pe alte planete in perioada care urmeaza.
 
