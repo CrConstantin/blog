@@ -4,7 +4,7 @@ title: "Full Disclosure and Ascension: The War Has Gone Hot! (part 1)"
 date:  2016-05-29 12:00
 author: David Wilcock
 categories: archive
-tags: aliens
+tags: aliens disclosure
 ---
 
 Although things seem "almost too quiet" in the open world at the moment, the war in the Secret Space Program world has never been hotter or more intense...

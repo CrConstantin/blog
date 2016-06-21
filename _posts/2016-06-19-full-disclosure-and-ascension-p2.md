@@ -4,7 +4,7 @@ title: "Full Disclosure and Ascension: The War Has Gone Hot! (part 2)"
 date:  2016-06-19 12:00
 author: David Wilcock
 categories: archive
-tags: aliens
+tags: aliens disclosure
 ---
 
 Independent insider sources and measurable real-world data confirm the war for Full Disclosure has gone "red hot"...

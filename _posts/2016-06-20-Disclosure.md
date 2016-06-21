@@ -4,7 +4,7 @@ title: "Disclosure"
 date:  2016-06-20 12:00
 author: Cristi Constantin
 categories: archive
-tags: aliens
+tags: ro aliens disclosure
 ---
 
 Iata prima mea postare in care am strans dovezi care nu pot fi ignorate, legate de viata extraterestra.

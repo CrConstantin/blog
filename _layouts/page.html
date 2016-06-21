@@ -6,4 +6,10 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">by {{ page.author }}{% if page.date %} - {{ page.date | date_to_string }}{% endif %}</span>
   {{ content }}
+  <div class="tags">
+    <strong>Tags:</strong>
+    {% for tag in page.tags %}
+    <span class="tag">{{ tag }}</span>
+    {% endfor %}
+  </div>
 </div>
