@@ -4,14 +4,16 @@ title: Cobra and Prepare for Change, May Interview
 date:  2016-05-30 12:00
 author: Dane Arr
 categories: archive
-tags: resistance
+tags: event cobra
 ---
 
 PrepareForChange.net and Cobra Interview: Transcript of the May 26 interview, posted on May 30, 2016.
 
 Cobra is a Pleiadian contactee and has been in contact with the underground for over 35 years. He has been told to remain anonymous by The Resistance and has ongoing communications with beings from Planet X that assist The Resistance Movement. As an earthly representative of the Agarthan network and the light forces, he strives to prepare humanity for the up and coming event horizon.
 
-Our intention is to dissipate fear, clear up any misunderstandings, and add insights into what is really happening behind the daily headlines. For more background you are invited to read his blog archive totaling 721 entries to this date. See: 2012portal.blogspot.com
+Our intention is to dissipate fear, clear up any misunderstandings, and add insights into what is really happening behind the daily headlines. For more background you are invited to read his blog archive totaling 721 entries to this date. See: [2012portal.blogspot.com](http://2012portal.blogspot.com/)
+
+### Transcript
 
 **Lynn** Welcome ladies & gentlemen to our monthly Cobra interview. Your hosts today are Lynn and Richard. Our goal with these Cobra interviews as with our website is to inform, educate and prepare for coming events. Please remember that no one has all the answers all the time. Remember that your internal guidance is the key and always go with what resonates with that guidance.
 

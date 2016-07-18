@@ -1,19 +1,17 @@
 ---
 layout: page
 title: Ascension Conference Notes Pt 2 - Glarus, Switzerland - April 16-17, 2016
-date:  2016-06-01 12:00
+date: 2016-06-01 12:00
 author: Nova Biscotti
 categories: archive
-tags: resistance
+tags: event cobra conference
 ---
 
-Notes taken by Antares during the Ascension Conference, translation Pippa, edited by Nova Biscotti and Cobra.
+Notes taken by Antares during the Ascension Conference, translation Pippa, edited by Nova Biscotti and Cobra. Part 2.
 
 **Disclaimer: The following conference notes are an interpretation of the person who wrote these notes. Many details are omitted and some original meaning is lost. They are NOT exact words from Cobra and Isis.**
 
-Original Post (in German): [http://trans-information.net/aufstiegskonferenz-in-teil-2/](http://trans-information.net/aufstiegskonferenz-in-teil-2/)
-
-Link to Part 1 (English): [ascension-conference-notes-pt-1-glarus-switzerland-april-16-17-2016/](http://eventreference.org/2016/06/01/ascension-conference-notes-pt-1-glarus-switzerland-april-16-17-2016/)
+[Original Post (in German)](http://trans-information.net/aufstiegskonferenz-in-teil-2/)
 
 **Cobra on Saturday, April 16th**
 
@@ -67,17 +65,17 @@ Since March the light forces have been cleaning the outer solar system where the
 
 The light forces are clearing everything layer by layer because it had been built in layers over the last 25,000 years. The light forces now deconstruct this huge fleet; the ones from the Kuiper belt have already been removed! All these ships were disguised (and therefore invisible for physical instruments).
 
-Questions addressed to Cobra:
+#### Questions addressed to Cobra:
 
-*   To what extent is Russia involved in the secret space program? _– Russia has its own space program (designated by Corey as UNO-like) that is connected in positive co-operation with many countries and even with the Ashtar command. The dark forces tried to overtake it in 1954, but the Pleiadians negotiated the permission to build a base on Bora Bora that is part of the galactic program._
+* To what extent is Russia involved in the secret space program? _– Russia has its own space program (designated by Corey as UNO-like) that is connected in positive co-operation with many countries and even with the Ashtar command. The dark forces tried to overtake it in 1954, but the Pleiadians negotiated the permission to build a base on Bora Bora that is part of the galactic program._
 
-*   How much slave labor is still there on the bases? _– Almost everything has been adjusted._
+* How much slave labor is still there on the bases? _– Almost everything has been adjusted._
 
-*   How old is Ashtar in earth years? _– Ashtar is an ascended being that ascended 25.000 years ago. He has no age in earth years._
+* How old is Ashtar in earth years? _– Ashtar is an ascended being that ascended 25.000 years ago. He has no age in earth years._
 
-*   What happens with the Chimera ships during the clearing? _– The light forces enter the ship, the beings on it are sent to the central sun. Then the ship will be deconstructed._
+* What happens with the Chimera ships during the clearing? _– The light forces enter the ship, the beings on it are sent to the central sun. Then the ship will be deconstructed._
 
-*   What is your opinion on the European space flight (program)? _– They are not infiltrated. They are not very successful but have good intentions._
+* What is your opinion on the European space flight (program)? _– They are not infiltrated. They are not very successful but have good intentions._
 
 **The light forces in the solar system**
 
@@ -189,4 +187,11 @@ Cobra showed a picture of the areas in the underground. He said that they have 
 
 He showed two further pictures of underground cities in (the vicinity of) Asia.
 
+
 _Unfortunately it is not possible to show all the images seen in the conference, because they are not available to us. Thus some images are only similar to those. They are illustrative._
+
+### Related:
+
+* [Cobra Ascension Conference Notes: Glarus, Switzerland Part 1](http://www.theeventchronicle.com/the-event/cobra-ascension-conference-notes-pt-1-glarus-switzerland-april-16-17-2016/)
+* [Cobra Ascension Conference Notes: Glarus, Switzerland Part 3](http://www.theeventchronicle.com/the-event/cobra-ascension-conference-notes-glarus-switzerland-part-3/)
+* [Cobra Ascension Conference Notes: Glarus, Switzerland Part 4](http://www.theeventchronicle.com/the-event/cobra-ascension-conference-notes-glarus-switzerland-part-4/)
