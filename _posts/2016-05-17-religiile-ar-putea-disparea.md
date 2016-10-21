@@ -4,7 +4,7 @@ title: "Religiile ar putea dispărea pe măsură ce oamenii se îmbogățesc"
 date:  2016-05-17 11:11
 author: Andrada Bonea
 categories: archive
-tags: ro, spiritual, religion
+tags: ro spiritual religion
 ---
 
 **O populație mai bogată ar putea reprezenta sfârșitul marilor religii, spun oamenii de știință specializați în evoluționism.**
@@ -15,4 +15,6 @@ De asemenea, Nicolas Baumard consideră că bogăția și bunăstarea au dus la 
 
 Totuși, doar reprezentanţii elitei din Egiptul Antic, Mesopotamia şi cei care locuiau în zonele din estul Mediteranei începuseră să adopte acest stil de viaţă, restul populaţiei continuând să aibă un stil de viaţă precar şi să moară la vârste fragede. Pentru a împiedica resimțirea acestor diferențe într-un mod pregnant, elita a început să promoveze venerarea zeilor moralizatori, ca o modalite de a împiedica masa populaţiei să le ocupe poziţiile. Mai clar, cercetătorii spun că aceste religii s-au dezvoltat pe baza diferenţelor dintre clasele sociale. Datorită faptului că ofereau oamenilor [principii morale](http://playtech.ro/2016/un-nou-studiu-arata-care-sunt-diferentele-dintre-atei-si-credinciosi/) după care să trăiască, sistemele de credinţă au ajutat, mai mai mult sau mai puţin, la dizolvarea acestor discrepanţe.
 
-Chiar și în zilele noastre, religia se bazează pe împlinirea spirituală, nu materială și fizică, promovând ideea că salvarea se află în moralitate, nu mâncare, sex sau belșug, în general. Pentru că din ce în ce mai mulți oameni beneficiază de un trai decent, cercetătorii spun că marile religii vor începe, treptat, să își piardă adepții, până când nu vor mai exista deloc. Studiul poate fi citit integral [aici](http://www.sciencedirect.com/science/article/pii/S0960982214013724).
+Chiar și în zilele noastre, religia se bazează pe împlinirea spirituală, nu materială și fizică, promovând ideea că salvarea se află în moralitate, nu mâncare, sex sau belșug, în general. Pentru că din ce în ce mai mulți oameni beneficiază de un trai decent, cercetătorii spun că marile religii vor începe, treptat, să își piardă adepții, până când nu vor mai exista deloc. Studiul poate fi citit integral pe [sciencedirect.com](http://www.sciencedirect.com/science/article/pii/S0960982214013724).
+
+Link original: [Playtech](http://playtech.ro/2016/religiile-ar-putea-disparea-pe-masura-ce-oamenii-se-imbogatesc/).

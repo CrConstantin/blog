@@ -4,7 +4,7 @@ title: Cobra and Prepare for Change, August Interview
 date: 2016-08-31 12:00
 author: Dane Arr
 categories: archive
-tags: event cobra
+tags: event disclosure cobra
 ---
 
 PrepareForChange.net and Cobra Interview: Transcript of the August 25, interview posted on August 31, 2016.
