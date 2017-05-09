@@ -1,5 +1,6 @@
 ---
 layout: page
+author: Cristi Constantin
 title: About me
 ---
 
