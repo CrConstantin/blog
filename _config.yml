@@ -11,8 +11,16 @@ github_username:  croqaz
 sass:
   style: compressed
 
-permalink: pretty
+# Build settings
+permalink: /:year/:month/:title
 markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: true
+
+compress_html:
+  blanklines: true
+
 paginate: 9
 google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]

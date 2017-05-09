@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Disclosure"
 date:  2016-06-20 12:00
 author: Cristi Constantin
+comments: true
 categories: archive
 tags: ro aliens disclosure
 ---
@@ -24,7 +24,7 @@ Planetoidul Ceres, aflat in centura de asteroizi dintre Marte si Jupiter, are 2 
 
 ![](/public/images/ceres-bright-spots_wide.jpg)
 Link:
-[NASA Sees 'Bright Spots' On Dwarf Planet In Our Solar System](http://www.npr.org/sections/thetwo-way/2015/02/26/389245969/nasa-sees-bright-spots-on-dwarf-planet-in-our-solar-system)  
+[NASA Sees 'Bright Spots' On Dwarf Planet In Our Solar System](http://www.npr.org/sections/thetwo-way/2015/02/26/389245969/nasa-sees-bright-spots-on-dwarf-planet-in-our-solar-system)
 
 
 ### 5 martie 2015
