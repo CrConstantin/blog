@@ -23,4 +23,13 @@ compress_html:
 
 paginate: 9
 google_analytics: 'UA-XXXXXXXX-X'
-gems: [jekyll-paginate]
+
+gems:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+  - jemoji
+exclude:
+  - scripts/
+  - Gemfile
+  - Gemfile.lock
