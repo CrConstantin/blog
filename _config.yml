@@ -30,6 +30,5 @@ gems:
   - jekyll-sitemap
   - jemoji
 exclude:
-  - scripts/
   - Gemfile
   - Gemfile.lock
