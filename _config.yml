@@ -22,7 +22,7 @@ compress_html:
   blanklines: true
 
 paginate: 9
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-99009583-1'
 
 gems:
   - jekyll-paginate
