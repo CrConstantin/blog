@@ -12,7 +12,7 @@ title: Home
       </a>
     </h1>
     <span class="post-date">by {{ post.author }}{% if post.date %} - {{ post.date | date_to_string }}{% endif %}</span>
-    {{ post.excerpt | strip_html }}
+    {% if post.teaser %}{{ post.teaser | strip_html }}{% else %}{{ post.excerpt | strip_html }}{% endif %}
   </div>
   {% endfor %}
 </div>

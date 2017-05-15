@@ -57,5 +57,7 @@ Until the next time!
 
 -----
 
+This blog is open source. You can check the [history of this post](https://github.com/croqaz/croqaz.github.io/commits/master/{{page.path}}).
+
 If you have any thoughts, suggestions, criticism, or whatever, please drop me a line in the comments section.
 If I have some audience, I'll be more focused on details and I'll write more often, obviously.

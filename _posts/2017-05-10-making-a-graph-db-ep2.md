@@ -4,6 +4,7 @@ author: Cristi Constantin
 comments: true
 categories: article
 tags: software programming graph db
+teaser: "In this episode, I'll be focusing on learning more about: who uses graphs, what are they doing with them, why did they choose graphs and maybe something about their implementation."
 ---
 
 In the [first article about my Graph Database](/2017/05/making-a-graph-db-ep1), I had some ideas to start with, and set some tasks. I did my homework and read basic stuff about all the mentioned databases and I discovered lots of new things.
@@ -42,9 +43,10 @@ Use-cases from the big boys:
 
 Things to study more:
 
-- Google’s Knowledge Graph
+- Google's Knowledge Graph
 - Facebook's Social Graph
-- Twitter’s Interest Graph
+- Twitter's Interest Graph
+- Microsoft's Graph
 
 
 So, to wrap this up, here are some answers to my questions:
@@ -65,6 +67,8 @@ I want to understand what I have to do first.
 Until the next time!
 
 -----
+
+This blog is open source. You can check the [history of this post](https://github.com/croqaz/croqaz.github.io/commits/master/{{page.path}}).
 
 If you have any thoughts, suggestions, criticism, or whatever, please drop me a line in the comments section.
 If I have some audience, I'll be sharing details and I'll write more often, obviously.
