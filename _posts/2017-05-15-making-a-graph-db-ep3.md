@@ -4,7 +4,7 @@ author: Cristi Constantin
 comments: true
 categories: article
 tags: software programming graph db
-teaser: "In this episode, I'll be focusing on finding a list of free & open-source libraries for Elixir, Python and Node, that will inspire me."
+excerpt: "In this episode, I'll be focusing on finding a list of free & open-source libraries for Elixir, Python and Node, that will inspire me."
 ---
 
 In my [previous article about my Graph Database](/2017/05/making-a-graph-db-ep2), I found the answers for: who uses graphs, what are they doing with them and why did they choose graphs.

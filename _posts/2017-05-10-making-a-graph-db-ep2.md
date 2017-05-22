@@ -4,7 +4,7 @@ author: Cristi Constantin
 comments: true
 categories: article
 tags: software programming graph db
-teaser: "In this episode, I'll be focusing on learning more about: who uses graphs, what are they doing with them, why did they choose graphs and maybe something about their implementation."
+excerpt: "In this episode, I'll be focusing on learning more about: who uses graphs, what are they doing with them, why did they choose graphs and maybe something about their implementation."
 ---
 
 In the [first article about my Graph Database](/2017/05/making-a-graph-db-ep1), I had some ideas to start with, and set some tasks. I did my homework and read basic stuff about all the mentioned databases and I discovered lots of new things.

@@ -4,7 +4,7 @@ author: Cristi Constantin
 comments: true
 categories: article
 tags: software programming graph db
-teaser: "I had a homework: to find a minimum of 3 use-cases that I want to resolve with my Graph Database."
+excerpt: "I had a homework: to find a minimum of 3 use-cases that I want to resolve with my Graph Database."
 ---
 
 In my [previous article about my Graph Database](/2017/05/making-a-graph-db-ep3), I found a list of free & open-source libraries for *Elixir, Python and Node*, and I had a homework: to find 3 a minimum of use-cases that I want to resolve with my Graph Database.
