@@ -30,12 +30,12 @@ This is the internal persistence layer, required to be as fast as possible:
 
 These formats are not particulary speed efficient, nor storage efficient, so they can't be used for instant snapshots. But to be compatible with other Graph implementations, my Graph should be exported to at least one of these:
 
-- [Gephi GEXF](https://gephi.org/gexf/format) - XML format
-- [GraphML](http://graphml.graphdrawing.org) - pure XML format, similar with GEXF
-- [DOT format](https://en.wikipedia.org/wiki/DOT_(graph_description_language))
-- [Graph Modelling Language, or Graph Meta Language](https://en.wikipedia.org/wiki/Graph_Modelling_Language) - precursor of DOT
-- [LEDA (Library of Efficient Datatypes)](http://www.algorithmic-solutions.info/leda_guide/graphs/leda_native_graph_fileformat.html) - fast text-based file format for storing a single directed, or undirected graphs
-- [Pajek](https://gephi.org/users/supported-graph-formats/pajek-net-format) - easy text-based file format for storing a single directed, or undirected graph
+- [Gephi GEXF](https://gephi.org/gexf/format){:target="_blank"} - XML format
+- [GraphML](http://graphml.graphdrawing.org){:target="_blank"} - pure XML format, similar with GEXF
+- [DOT format](https://en.wikipedia.org/wiki/DOT_(graph_description_language)){:target="_blank"} - simple format
+- [Graph Modelling Language, or Graph Meta Language](https://en.wikipedia.org/wiki/Graph_Modelling_Language){:target="_blank"} - precursor of DOT
+- [LEDA (Library of Efficient Datatypes)](http://www.algorithmic-solutions.info/leda_guide/graphs/leda_native_graph_fileformat.html){:target="_blank"} - fast text-based file format for storing a single directed, or undirected graphs
+- [Pajek](https://gephi.org/users/supported-graph-formats/pajek-net-format){:target="_blank"} - easy text-based file format for storing a single directed, or undirected graph
 - Graph6 si Sparse6 - somewhat exotic graph storage
 
 
@@ -47,7 +47,7 @@ These formats are not particulary speed efficient, nor storage efficient, so the
 - GraphQL
 - Dgraph's query language (inspired from GraphQL)
 
-Also, [An overview of Graph database query languages](https://developer.ibm.com/dwblog/2017/overview-graph-database-query-languages/) from IBM developers.
+Also, [An overview of Graph database query languages](https://developer.ibm.com/dwblog/2017/overview-graph-database-query-languages){:target="_blank"} from IBM developers.
 
 
 ### Desired technical requirements:
