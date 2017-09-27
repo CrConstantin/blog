@@ -63,8 +63,8 @@ A 2D Boolean matrix, in which the rows represent the nodes and columns represent
 - HDF5 arrays
 - [server](https://en.wikipedia.org/wiki/Database_server){:target="_blank"}, or  [embeded](https://en.wikipedia.org/wiki/Embedded_database){:target="_blank"}
 
-I would prefer to use a portable/ embeded database, because I want my Graph to be more **user friendly**. If I'd choose a database server, that would require the end user to install stuff like MySql, or MongoDB, or Redis, which seems overkill for my toy database.
-But if I discover that an embeded database is not enough, of course I'll switch to a server.
+I would prefer to use a portable/ embeded database, rather than a server, because I want my Graph to be more **user friendly**. If I'd choose a database server, that would require the end user to install stuff like MySql, or MongoDB, or Redis, which seems overkill for my toy database.
+But if I discover that an embeded database is not enough, of course I'll consider switching to a server.
 
 That's all I have to say for today.
 
